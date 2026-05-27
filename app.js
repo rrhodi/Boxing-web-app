@@ -282,7 +282,9 @@ async function loadRankedFeed() {
   dataStatus.textContent = "Loading ranked web data...";
 
   try {
-    const response = await fetch("data/ranked-fights.json", { cache: "no-store" });
+    const response = await fetch(`data/ranked-fights.json?v=${Date.now()}`, {
+      cache: "no-store",
+    });
     if (!response.ok) throw new Error("Ranked fight data is not available yet.");
 
     const payload = await response.json();

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fight Ledger</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Boxing schedule and results</p>
+          <h1>Fight Ledger</h1>
+          <p>
+            Track upcoming bouts, past results, divisions, venues, and methods
+            in one fast boxing dashboard.
+          </p>
+        </div>
+        <div class="hero-stats" aria-label="Fight summary">
+          <div>
+            <span id="upcomingCount">0</span>
+            <small>Upcoming</small>
+          </div>
+          <div>
+            <span id="previousCount">0</span>
+            <small>Results</small>
+          </div>
+          <div>
+            <span id="divisionCount">0</span>
+            <small>Divisions</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="Fight filters">
+        <div class="tabs" role="tablist" aria-label="Fight status">
+          <button class="tab active" data-filter="all" type="button">All</button>
+          <button class="tab" data-filter="upcoming" type="button">Upcoming</button>
+          <button class="tab" data-filter="previous" type="button">Previous</button>
+        </div>
+        <label class="search-field">
+          <span>Search fights</span>
+          <input id="searchInput" type="search" placeholder="Fighter, venue, belt..." />
+        </label>
+      </section>
+
+      <section class="content-grid">
+        <section class="fight-panel" aria-live="polite">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Fight list</p>
+              <h2 id="panelTitle">All fights</h2>
+              <p id="dataStatus" class="data-status">Loading ranked web data...</p>
+            </div>
+            <div class="panel-actions">
+              <button id="loadRankedButton" class="ghost-button" type="button">
+                Refresh ranked data
+              </button>
+            </div>
+          </div>
+          <div id="fightList" class="fight-list"></div>
+          <p id="emptyState" class="empty-state" hidden>No fights match your filters.</p>
+        </section>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

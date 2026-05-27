@@ -188,13 +188,13 @@ function renderFights() {
 
 function renderFighter(name, record, image) {
   const safeName = escapeHtml(name);
-  const safeRecord = escapeHtml(record || "Record TBA");
+  const hasRecord = record && record !== "Record TBA";
 
   return `
     <div class="fighter-profile">
       ${renderFighterImage(name, image)}
       <strong>${safeName}</strong>
-      <span>${safeRecord}</span>
+      ${hasRecord ? `<span>${escapeHtml(record)}</span>` : ""}
     </div>
   `;
 }

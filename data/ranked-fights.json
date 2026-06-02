@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T13:47:47.611Z",
+  "generatedAt": "2026-06-02T12:15:46.769Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -331,7 +331,7 @@
       "id": "amari-jones-vincenzo-gualtieri-2026-05-22",
       "fighterA": "Amari Jones",
       "fighterB": "Vincenzo Gualtieri",
-      "fighterARecord": "",
+      "fighterARecord": "16-0-0",
       "fighterBRecord": "25-1-1",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -343,6 +343,7 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
+        "Amari Jones",
         "Vincenzo Gualtieri"
       ],
       "sourceName": "Boxing Metrics",

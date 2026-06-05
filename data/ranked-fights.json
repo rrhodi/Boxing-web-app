@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T11:25:59.786Z",
+  "generatedAt": "2026-06-05T11:36:19.268Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -390,6 +390,27 @@
       ],
       "sourceName": "ESPN / Tapology",
       "sourceUrl": "https://www.espn.in/boxing/story/_/id/48420692/amanda-serrano-defend-titles-vs-cheyenne-hanson-mvpw-03"
+    },
+    {
+      "id": "albert-ramirez-lerrone-richards-2026-06-04",
+      "fighterA": "Albert Ramirez",
+      "fighterB": "Lerrone Richards",
+      "fighterARecord": "22-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-04",
+      "division": "Light Heavyweight",
+      "venue": "📍 Casino Montreal, Montreal, Quebec, Canada",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Albert Ramirez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "chris-billam-smith-ryan-rozicki-2026-06-06",

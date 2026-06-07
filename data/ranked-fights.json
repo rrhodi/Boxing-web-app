@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T10:21:48.982Z",
+  "generatedAt": "2026-06-07T10:36:18.513Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,28 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "roman-fress-tahir-kahrovic-2026-03-07",
-      "fighterA": "Roman Fress",
-      "fighterB": "Tahir Kahrovic",
-      "fighterARecord": "23-1-0",
-      "fighterBRecord": "23-1-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-03-07",
-      "division": "Cruiserweight",
-      "venue": "📍 Messehalle, Magdeburg, Germany",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Roman Fress",
-        "Tahir Kahrovic"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
     {
       "id": "juan-francisco-estrada-tenshin-nasukawa-2026-03-13",
       "fighterA": "Juan Francisco Estrada",
@@ -413,28 +391,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
-      "id": "luis-nery-john-riel-casimero-2026-06-06",
-      "fighterA": "Luis Nery",
-      "fighterB": "John Riel Casimero",
-      "fighterARecord": "37-2-0",
-      "fighterBRecord": "35-5-1",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-06",
-      "division": "Super Bantamweight",
-      "venue": "📍 Aichi Sky Expo, Tokoname, Aichi",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Luis Nery",
-        "John Riel Casimero"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
       "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -455,6 +411,49 @@
       ],
       "sourceName": "BBC Sport / Sky Sports",
       "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c0m200nd3lmo"
+    },
+    {
+      "id": "josh-padley-aqib-fiaz-2026-06-06",
+      "fighterA": "Josh Padley",
+      "fighterB": "Aqib Fiaz",
+      "fighterARecord": "17-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-06",
+      "division": "Lightweight",
+      "venue": "📍 Sheffield Arena, Sheffield, Yorkshire, England",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Josh Padley"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "luis-nery-john-riel-casimero-2026-06-06",
+      "fighterA": "Luis Nery",
+      "fighterB": "John Riel Casimero",
+      "fighterARecord": "37-2-0",
+      "fighterBRecord": "35-5-1",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-06",
+      "division": "Super Bantamweight",
+      "venue": "📍 Aichi Sky Expo, Tokoname, Aichi",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Luis Nery",
+        "John Riel Casimero"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
       "id": "jesse-rodriguez-antonio-vargas-2026-06-13",

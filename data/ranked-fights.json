@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T11:52:59.974Z",
+  "generatedAt": "2026-06-13T10:38:35.450Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "juan-francisco-estrada-tenshin-nasukawa-2026-03-13",
-      "fighterA": "Juan Francisco Estrada",
-      "fighterB": "Tenshin Nasukawa",
-      "fighterARecord": "45-4-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-03-13",
-      "division": "Super Flyweight",
-      "venue": "📍 Oscecola Heritage Park Event Center, Kissimmee, Florida",
-      "locationImage": "",
-      "title": "Super Flyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Juan Francisco Estrada"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
-    },
     {
       "id": "jordan-orozco-daniel-olea-2026-03-21",
       "fighterA": "Jordan Orozco",

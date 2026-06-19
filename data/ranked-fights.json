@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T11:57:35.600Z",
+  "generatedAt": "2026-06-19T12:17:45.194Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -11,300 +11,46 @@
   ],
   "fights": [
     {
-      "id": "jordan-orozco-daniel-olea-2026-03-21",
-      "fighterA": "Jordan Orozco",
-      "fighterB": "Daniel Olea",
-      "fighterARecord": "15-0-0",
+      "id": "muhamet-qamili-alessangel-mayora-2026-05-23",
+      "fighterA": "Muhamet Qamili",
+      "fighterB": "Alessangel Mayora",
+      "fighterARecord": "17-1-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-03-21",
-      "division": "Bantamweight",
-      "venue": "📍 Caribe Royale Orlando, Orlando, Florida, United States",
-      "locationImage": "",
-      "title": "Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jordan Orozco"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
-      "id": "leigh-wood-josh-warrington-2026-04-04",
-      "fighterA": "Leigh Wood",
-      "fighterB": "Josh Warrington",
-      "fighterARecord": "29-4-0",
-      "fighterBRecord": "32-5-1",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-04",
+      "date": "2026-05-23",
       "division": "Featherweight",
-      "venue": "📍 O2 Arena, Greenwich, United Kingdom",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Leigh Wood",
-        "Josh Warrington"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
-      "id": "richard-riakporhe-jeamie-tshikeva-2026-04-11",
-      "fighterA": "Richard Riakporhe",
-      "fighterB": "Jeamie Tshikeva",
-      "fighterARecord": "20-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-11",
-      "division": "Cruiserweight",
-      "venue": "📍 Tottenham Hotspur Stadium, London, United Kingdom",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Richard Riakporhe"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
-    {
-      "id": "mikie-tallon-cristopher-rios-2026-04-11",
-      "fighterA": "Mikie Tallon",
-      "fighterB": "Cristopher Rios",
-      "fighterARecord": "12-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-11",
-      "division": "Flyweight",
-      "venue": "📍 Tottenham Hotspur Stadium, Tottenham, London, England",
-      "locationImage": "",
-      "title": "Flyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Mikie Tallon"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/flyweight"
-    },
-    {
-      "id": "ben-whittaker-braian-suarez-2026-04-18",
-      "fighterA": "Ben Whittaker",
-      "fighterB": "Braian Suarez",
-      "fighterARecord": "12-0-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-18",
-      "division": "Light Heavyweight",
-      "venue": "KO",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ben Whittaker"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "kenichi-ogawa-rhonvex-capuloy-2026-04-19",
-      "fighterA": "Kenichi Ogawa",
-      "fighterB": "Rhonvex Capuloy",
-      "fighterARecord": "31-2-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-19",
-      "division": "Super Featherweight",
-      "venue": "📍 Towa Pharmaceutical Ractab Dome, Kadoma, Osaka, Japan",
-      "locationImage": "",
-      "title": "Super Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Kenichi Ogawa"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
-    },
-    {
-      "id": "jarrell-miller-lenier-pero-2026-04-25",
-      "fighterA": "Jarrell Miller",
-      "fighterB": "Lenier Pero",
-      "fighterARecord": "",
-      "fighterBRecord": "14-1-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-25",
-      "division": "Heavyweight",
-      "venue": "📍 Fontainebleau, Las Vegas, Nevada, United States",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Lenier Pero"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
-      "id": "lawrence-okolie-tony-yoka-2026-04-25",
-      "fighterA": "Lawrence Okolie",
-      "fighterB": "Tony Yoka",
-      "fighterARecord": "23-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-25",
-      "division": "Cruiserweight",
-      "venue": "📍 Adidas Arena, Paris XVIII, France",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Lawrence Okolie"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
-    {
-      "id": "skye-nicolson-mariah-turner-2026-04-29",
-      "fighterA": "Skye Nicolson",
-      "fighterB": "Mariah Turner",
-      "fighterARecord": "15-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-04-29",
-      "division": "Featherweight",
-      "venue": "📍 Melbourne Pavilion, Melbourne, Victoria",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Skye Nicolson"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
-      "id": "naoya-inoue-junto-nakatani-2026-05-02",
-      "fighterA": "Naoya Inoue",
-      "fighterB": "Junto Nakatani",
-      "fighterARecord": "33-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-02",
-      "division": "Super Bantamweight",
       "venue": "UD",
       "locationImage": "",
-      "title": "Super Bantamweight bout",
+      "title": "Featherweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Naoya Inoue"
+        "Muhamet Qamili"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
-      "id": "yoshiki-takei-dekang-wang-2026-05-02",
-      "fighterA": "Yoshiki Takei",
-      "fighterB": "Dekang Wang",
-      "fighterARecord": "12-1-0",
+      "id": "juergen-uldedaj-austine-nnamdi-2026-05-30",
+      "fighterA": "Juergen Uldedaj",
+      "fighterB": "Austine Nnamdi",
+      "fighterARecord": "21-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-05-02",
-      "division": "Flyweight",
-      "venue": "📍 Tokyo Dome, Tokyo, Japan",
+      "date": "2026-05-30",
+      "division": "Cruiserweight",
+      "venue": "UD",
       "locationImage": "",
-      "title": "Flyweight bout",
+      "title": "Cruiserweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Yoshiki Takei"
+        "Juergen Uldedaj"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/flyweight"
-    },
-    {
-      "id": "zak-chelli-david-morrell-2026-05-09",
-      "fighterA": "Zak Chelli",
-      "fighterB": "David Morrell",
-      "fighterARecord": "",
-      "fighterBRecord": "12-2-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-09",
-      "division": "Super Middleweight",
-      "venue": "KO",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "David Morrell"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
-    },
-    {
-      "id": "dave-allen-filip-hrgovic-2026-05-16",
-      "fighterA": "Dave Allen",
-      "fighterB": "Filip Hrgovic",
-      "fighterARecord": "",
-      "fighterBRecord": "22-2-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-16",
-      "division": "Heavyweight",
-      "venue": "📍 Eco Power Stadium, Doncaster, Yorkshire",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Filip Hrgovic"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
-      "id": "amari-jones-vincenzo-gualtieri-2026-05-22",
-      "fighterA": "Amari Jones",
-      "fighterB": "Vincenzo Gualtieri",
-      "fighterARecord": "16-0-0",
-      "fighterBRecord": "25-1-1",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-22",
-      "division": "Super Welterweight",
-      "venue": "📍 SAP Arena, San Jose, California",
-      "locationImage": "",
-      "title": "Super Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Amari Jones",
-        "Vincenzo Gualtieri"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
       "id": "jose-ramirez-jack-catterall-2026-05-30",
@@ -326,6 +72,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
+    },
+    {
+      "id": "murodjon-akhmadaliev-hegly-mosqueda-2026-05-30",
+      "fighterA": "Murodjon Akhmadaliev",
+      "fighterB": "Hegly Mosqueda",
+      "fighterARecord": "14-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-05-30",
+      "division": "Super Bantamweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Murodjon Akhmadaliev"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "guillermo-rigondeaux-jose-velasquez-2026-05-30",
+      "fighterA": "Guillermo Rigondeaux",
+      "fighterB": "Jose Velasquez",
+      "fighterARecord": "23-3-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-05-30",
+      "division": "Bantamweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Guillermo Rigondeaux"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
     },
     {
       "id": "amanda-serrano-cheyenne-hanson-2026-05-30",
@@ -368,6 +156,69 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "imam-khataev-mickael-diallo-2026-06-04",
+      "fighterA": "Imam Khataev",
+      "fighterB": "Mickael Diallo",
+      "fighterARecord": "11-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-04",
+      "division": "Light Heavyweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Imam Khataev"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "dzmitry-asanau-roger-gutierrez-2026-06-04",
+      "fighterA": "Dzmitry Asanau",
+      "fighterB": "Roger Gutierrez",
+      "fighterARecord": "11-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-04",
+      "division": "Lightweight",
+      "venue": "KO",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Dzmitry Asanau"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "jhon-orobio-jonathan-montrel-2026-06-04",
+      "fighterA": "Jhon Orobio",
+      "fighterB": "Jonathan Montrel",
+      "fighterARecord": "16-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-04",
+      "division": "Lightweight",
+      "venue": "KO",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jhon Orobio"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
@@ -435,6 +286,90 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
+      "id": "kevin-lele-sadjo-abdul-ubaya-2026-06-10",
+      "fighterA": "Kevin Lele Sadjo",
+      "fighterB": "Abdul Ubaya",
+      "fighterARecord": "28-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-10",
+      "division": "Super Middleweight",
+      "venue": "📍 Abidjan Exhibition Park, Abidjan, Cote D&#x27;Ivoire",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Kevin Lele Sadjo"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
+      "id": "mehmet-unal-yoann-kongolo-2026-06-12",
+      "fighterA": "Mehmet Unal",
+      "fighterB": "Yoann Kongolo",
+      "fighterARecord": "14-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-12",
+      "division": "Light Heavyweight",
+      "venue": "📍 Capitole de Quebec, Quebec City, Quebec",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Mehmet Unal"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "arturo-cardenas-jordan-martinez-2026-06-13",
+      "fighterA": "Arturo Cardenas",
+      "fighterB": "Jordan Martinez",
+      "fighterARecord": "17-0-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-13",
+      "division": "Super Bantamweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Arturo Cardenas"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "jordan-orozco-fernando-diaz-2026-06-13",
+      "fighterA": "Jordan Orozco",
+      "fighterB": "Fernando Diaz",
+      "fighterARecord": "15-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-13",
+      "division": "Bantamweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jordan Orozco"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
+    },
+    {
       "id": "jesse-rodriguez-antonio-vargas-2026-06-13",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -455,6 +390,48 @@
       ],
       "sourceName": "Matchroom Boxing / ESPN",
       "sourceUrl": "https://www.matchroomboxing.com/events/rodriguez-vs-vargas/"
+    },
+    {
+      "id": "troy-isley-leonardo-di-stefano-2026-06-14",
+      "fighterA": "Troy Isley",
+      "fighterB": "Leonardo Di Stefano",
+      "fighterARecord": "15-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-14",
+      "division": "Middleweight",
+      "venue": "📍 GLC Live, Grand Rapids, Michigan",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Troy Isley"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "jonathan-gonzalez-abraham-perez-2026-06-14",
+      "fighterA": "Jonathan Gonzalez",
+      "fighterB": "Abraham Perez",
+      "fighterARecord": "28-4-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-14",
+      "division": "Light Flyweight",
+      "venue": "SD",
+      "locationImage": "",
+      "title": "Light Flyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jonathan Gonzalez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
     },
     {
       "id": "anthony-joshua-kristian-prenga-2026-07-25",

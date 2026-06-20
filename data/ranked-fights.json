@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T12:17:45.194Z",
+  "generatedAt": "2026-06-20T10:40:57.900Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,6 +10,27 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
+    {
+      "id": "robin-safar-yamil-peralta-2026-05-22",
+      "fighterA": "Robin Safar",
+      "fighterB": "Yamil Peralta",
+      "fighterARecord": "19-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-05-22",
+      "division": "Cruiserweight",
+      "venue": "SD",
+      "locationImage": "",
+      "title": "Cruiserweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Robin Safar"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
+    },
     {
       "id": "muhamet-qamili-alessangel-mayora-2026-05-23",
       "fighterA": "Muhamet Qamili",
@@ -35,7 +56,7 @@
       "id": "juergen-uldedaj-austine-nnamdi-2026-05-30",
       "fighterA": "Juergen Uldedaj",
       "fighterB": "Austine Nnamdi",
-      "fighterARecord": "21-1-0",
+      "fighterARecord": "22-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -57,7 +78,7 @@
       "fighterA": "Jose Ramirez",
       "fighterB": "Jack Catterall",
       "fighterARecord": "",
-      "fighterBRecord": "32-2-0",
+      "fighterBRecord": "33-2-0",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-05-30",
@@ -182,7 +203,7 @@
       "id": "dzmitry-asanau-roger-gutierrez-2026-06-04",
       "fighterA": "Dzmitry Asanau",
       "fighterB": "Roger Gutierrez",
-      "fighterARecord": "11-1-0",
+      "fighterARecord": "12-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -195,27 +216,6 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Dzmitry Asanau"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
-    },
-    {
-      "id": "jhon-orobio-jonathan-montrel-2026-06-04",
-      "fighterA": "Jhon Orobio",
-      "fighterB": "Jonathan Montrel",
-      "fighterARecord": "16-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-04",
-      "division": "Lightweight",
-      "venue": "KO",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jhon Orobio"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
@@ -246,7 +246,7 @@
       "id": "josh-padley-aqib-fiaz-2026-06-06",
       "fighterA": "Josh Padley",
       "fighterB": "Aqib Fiaz",
-      "fighterARecord": "17-1-0",
+      "fighterARecord": "18-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -259,6 +259,27 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Josh Padley"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "ibraheem-sulaimaan-ibrahim-nadim-2026-06-06",
+      "fighterA": "Ibraheem Sulaimaan",
+      "fighterB": "Ibrahim Nadim",
+      "fighterARecord": "11-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-06",
+      "division": "Lightweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ibraheem Sulaimaan"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
@@ -307,25 +328,25 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
-      "id": "mehmet-unal-yoann-kongolo-2026-06-12",
-      "fighterA": "Mehmet Unal",
-      "fighterB": "Yoann Kongolo",
-      "fighterARecord": "14-2-0",
+      "id": "milan-prat-amiri-rashidi-matumla-2026-06-10",
+      "fighterA": "Milan Prat",
+      "fighterB": "Amiri Rashidi Matumla",
+      "fighterARecord": "29-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-06-12",
-      "division": "Light Heavyweight",
-      "venue": "📍 Capitole de Quebec, Quebec City, Quebec",
+      "date": "2026-06-10",
+      "division": "Super Welterweight",
+      "venue": "UD",
       "locationImage": "",
-      "title": "Light Heavyweight bout",
+      "title": "Super Welterweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Mehmet Unal"
+        "Milan Prat"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
     },
     {
       "id": "arturo-cardenas-jordan-martinez-2026-06-13",
@@ -352,7 +373,7 @@
       "id": "jordan-orozco-fernando-diaz-2026-06-13",
       "fighterA": "Jordan Orozco",
       "fighterB": "Fernando Diaz",
-      "fighterARecord": "15-0-0",
+      "fighterARecord": "17-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T10:40:57.900Z",
+  "generatedAt": "2026-06-21T11:24:46.360Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -72,27 +72,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
-    {
-      "id": "jose-ramirez-jack-catterall-2026-05-30",
-      "fighterA": "Jose Ramirez",
-      "fighterB": "Jack Catterall",
-      "fighterARecord": "",
-      "fighterBRecord": "33-2-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-30",
-      "division": "Super Lightweight",
-      "venue": "📍 Save Mart Center, Fresno, California",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jack Catterall"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "murodjon-akhmadaliev-hegly-mosqueda-2026-05-30",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T11:31:29.355Z",
+  "generatedAt": "2026-06-24T11:17:07.038Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "robin-safar-yamil-peralta-2026-05-22",
-      "fighterA": "Robin Safar",
-      "fighterB": "Yamil Peralta",
-      "fighterARecord": "19-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-22",
-      "division": "Cruiserweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Robin Safar"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
     {
       "id": "muhamet-qamili-alessangel-mayora-2026-05-23",
       "fighterA": "Muhamet Qamili",

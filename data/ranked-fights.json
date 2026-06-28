@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T10:23:20.143Z",
+  "generatedAt": "2026-06-28T10:34:30.918Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -156,27 +156,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "dzmitry-asanau-roger-gutierrez-2026-06-04",
-      "fighterA": "Dzmitry Asanau",
-      "fighterB": "Roger Gutierrez",
-      "fighterARecord": "12-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-04",
-      "division": "Lightweight",
-      "venue": "KO",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Dzmitry Asanau"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
@@ -411,6 +390,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
+    },
+    {
+      "id": "ben-whittaker-richard-rivera-2026-06-27",
+      "fighterA": "Ben Whittaker",
+      "fighterB": "Richard Rivera",
+      "fighterARecord": "12-0-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-27",
+      "division": "Light Heavyweight",
+      "venue": "📍 Barclays Center, Brooklyn, New York, United States",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ben Whittaker"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "anthony-joshua-kristian-prenga-2026-07-25",

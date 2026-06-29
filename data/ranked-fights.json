@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T10:34:30.918Z",
+  "generatedAt": "2026-06-29T12:42:08.931Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "muhamet-qamili-alessangel-mayora-2026-05-23",
-      "fighterA": "Muhamet Qamili",
-      "fighterB": "Alessangel Mayora",
-      "fighterARecord": "17-1-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-23",
-      "division": "Featherweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Muhamet Qamili"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
     {
       "id": "juergen-uldedaj-austine-nnamdi-2026-05-30",
       "fighterA": "Juergen Uldedaj",

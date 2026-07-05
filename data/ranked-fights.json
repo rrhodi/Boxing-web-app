@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:25:05.083Z",
+  "generatedAt": "2026-07-05T10:27:45.837Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -104,7 +104,7 @@
       "fighterBImage": "",
       "date": "2026-06-04",
       "division": "Light Heavyweight",
-      "venue": "📍 Casino Montreal, Montreal, Quebec, Canada",
+      "venue": "Casino Montreal, Montreal, Quebec, Canada",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -168,34 +168,13 @@
       "fighterBImage": "",
       "date": "2026-06-06",
       "division": "Lightweight",
-      "venue": "📍 Sheffield Arena, Sheffield, Yorkshire, England",
+      "venue": "Sheffield Arena, Sheffield, Yorkshire, England",
       "locationImage": "",
       "title": "Lightweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
         "Josh Padley"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
-    },
-    {
-      "id": "ibraheem-sulaimaan-ibrahim-nadim-2026-06-06",
-      "fighterA": "Ibraheem Sulaimaan",
-      "fighterB": "Ibrahim Nadim",
-      "fighterARecord": "11-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-06",
-      "division": "Lightweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ibraheem Sulaimaan"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
@@ -210,7 +189,7 @@
       "fighterBImage": "",
       "date": "2026-06-06",
       "division": "Super Bantamweight",
-      "venue": "📍 Aichi Sky Expo, Tokoname, Aichi",
+      "venue": "Aichi Sky Expo, Tokoname, Aichi",
       "locationImage": "",
       "title": "Super Bantamweight bout",
       "result": "Result listed by source",
@@ -221,48 +200,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "kevin-lele-sadjo-abdul-ubaya-2026-06-10",
-      "fighterA": "Kevin Lele Sadjo",
-      "fighterB": "Abdul Ubaya",
-      "fighterARecord": "28-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-10",
-      "division": "Super Middleweight",
-      "venue": "📍 Abidjan Exhibition Park, Abidjan, Cote D&#x27;Ivoire",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Kevin Lele Sadjo"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
-    },
-    {
-      "id": "milan-prat-amiri-rashidi-matumla-2026-06-10",
-      "fighterA": "Milan Prat",
-      "fighterB": "Amiri Rashidi Matumla",
-      "fighterARecord": "29-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-10",
-      "division": "Super Welterweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Milan Prat"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
     },
     {
       "id": "arturo-cardenas-jordan-martinez-2026-06-13",
@@ -338,7 +275,7 @@
       "fighterBImage": "",
       "date": "2026-06-14",
       "division": "Middleweight",
-      "venue": "📍 GLC Live, Grand Rapids, Michigan",
+      "venue": "GLC Live, Grand Rapids, Michigan",
       "locationImage": "",
       "title": "Middleweight bout",
       "result": "Result listed by source",
@@ -380,7 +317,7 @@
       "fighterBImage": "",
       "date": "2026-06-27",
       "division": "Light Heavyweight",
-      "venue": "📍 Barclays Center, Brooklyn, New York, United States",
+      "venue": "Barclays Center, Brooklyn, New York, United States",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -390,6 +327,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "kevin-lele-sadjo-adrian-cota-2026-07-04",
+      "fighterA": "Kevin Lele Sadjo",
+      "fighterB": "Adrian Cota",
+      "fighterARecord": "28-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-04",
+      "division": "Super Middleweight",
+      "venue": "Palais des Sports Robert Oubron, Creteil, Val-de-Marne, France",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Kevin Lele Sadjo"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
       "id": "anthony-joshua-kristian-prenga-2026-07-25",

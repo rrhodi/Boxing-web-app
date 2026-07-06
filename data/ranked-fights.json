@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T10:27:45.837Z",
+  "generatedAt": "2026-07-06T12:15:12.417Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -32,22 +32,22 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
-      "id": "murodjon-akhmadaliev-hegly-mosqueda-2026-05-30",
-      "fighterA": "Murodjon Akhmadaliev",
-      "fighterB": "Hegly Mosqueda",
-      "fighterARecord": "14-2-0",
+      "id": "elise-soto-thalia-limon-2026-05-30",
+      "fighterA": "Elise Soto",
+      "fighterB": "Thalia Limon",
+      "fighterARecord": "11-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-05-30",
       "division": "Super Bantamweight",
-      "venue": "TKO",
+      "venue": "UD",
       "locationImage": "",
       "title": "Super Bantamweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Murodjon Akhmadaliev"
+        "Elise Soto"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
@@ -308,6 +308,48 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
     },
     {
+      "id": "ernesto-mercado-juan-carlos-burgos-2026-06-19",
+      "fighterA": "Ernesto Mercado",
+      "fighterB": "Juan Carlos Burgos",
+      "fighterARecord": "18-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-19",
+      "division": "Super Lightweight",
+      "venue": "Thunder Studios, Long Beach, California",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ernesto Mercado"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
+    },
+    {
+      "id": "brad-pauls-bradley-goldsmith-2026-06-20",
+      "fighterA": "Brad Pauls",
+      "fighterB": "Bradley Goldsmith",
+      "fighterARecord": "",
+      "fighterBRecord": "16-1-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-20",
+      "division": "Middleweight",
+      "venue": "St Mary&#x27;s Stadium, Southampton, England",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Bradley Goldsmith"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
       "id": "ben-whittaker-richard-rivera-2026-06-27",
       "fighterA": "Ben Whittaker",
       "fighterB": "Richard Rivera",
@@ -327,6 +369,69 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "emiliano-vargas-bryce-mills-2026-06-27",
+      "fighterA": "Emiliano Vargas",
+      "fighterB": "Bryce Mills",
+      "fighterARecord": "18-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-27",
+      "division": "Lightweight",
+      "venue": "Barclays Center, Brooklyn, New York, United States",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Emiliano Vargas"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "dennis-thompson-edwin-rodriguez-2026-06-27",
+      "fighterA": "Dennis Thompson",
+      "fighterB": "Edwin Rodriguez",
+      "fighterARecord": "11-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-27",
+      "division": "Bantamweight",
+      "venue": "Barclays Center, Brooklyn, New York, United States",
+      "locationImage": "",
+      "title": "Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Dennis Thompson"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
+    },
+    {
+      "id": "omar-trinidad-jerwin-ancajas-2026-06-28",
+      "fighterA": "Omar Trinidad",
+      "fighterB": "Jerwin Ancajas",
+      "fighterARecord": "19-0-2",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-28",
+      "division": "Featherweight",
+      "venue": "The Chelsea at the Cosmopolitan, Las Vegas, Nevada, United States",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Omar Trinidad"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "kevin-lele-sadjo-adrian-cota-2026-07-04",

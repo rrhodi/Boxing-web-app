@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T09:47:57.825Z",
+  "generatedAt": "2026-07-12T10:00:33.494Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "juergen-uldedaj-austine-nnamdi-2026-05-30",
-      "fighterA": "Juergen Uldedaj",
-      "fighterB": "Austine Nnamdi",
-      "fighterARecord": "22-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-30",
-      "division": "Cruiserweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Juergen Uldedaj"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
     {
       "id": "elise-soto-thalia-limon-2026-05-30",
       "fighterA": "Elise Soto",
@@ -111,27 +90,6 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Albert Ramirez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "imam-khataev-mickael-diallo-2026-06-04",
-      "fighterA": "Imam Khataev",
-      "fighterB": "Mickael Diallo",
-      "fighterARecord": "11-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-04",
-      "division": "Light Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Imam Khataev"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
@@ -453,6 +411,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
+      "id": "joe-joyce-artem-suslenkov-2026-07-11",
+      "fighterA": "Joe Joyce",
+      "fighterB": "Artem Suslenkov",
+      "fighterARecord": "",
+      "fighterBRecord": "13-0-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-11",
+      "division": "Heavyweight",
+      "venue": "VTB Arena, Moscow, Russia",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Artem Suslenkov"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
       "id": "anthony-joshua-kristian-prenga-2026-07-25",

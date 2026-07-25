@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T10:28:06.607Z",
+  "generatedAt": "2026-07-25T09:59:42.978Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -432,6 +432,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+    },
+    {
+      "id": "tyson-fury-mariusz-wach-2026-07-25",
+      "fighterA": "Tyson Fury",
+      "fighterB": "Mariusz Wach",
+      "fighterARecord": "35-2-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-25",
+      "division": "Heavyweight",
+      "venue": "Max Muay Thai Stadium, Pattaya, Thailand",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Tyson Fury"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
       "id": "anthony-joshua-kristian-prenga-2026-07-25",

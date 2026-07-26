@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T09:59:42.978Z",
+  "generatedAt": "2026-07-26T10:12:43.372Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "elise-soto-thalia-limon-2026-05-30",
-      "fighterA": "Elise Soto",
-      "fighterB": "Thalia Limon",
-      "fighterARecord": "11-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-05-30",
-      "division": "Super Bantamweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Elise Soto"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
     {
       "id": "amanda-serrano-cheyenne-hanson-2026-05-30",
       "fighterAImage": "",
@@ -474,6 +453,91 @@
       ],
       "sourceName": "Tapology / AS",
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
+    },
+    {
+      "id": "anthony-joshua-kristian-prenga-2026-07-26",
+      "fighterA": "Anthony Joshua",
+      "fighterB": "Kristian Prenga",
+      "fighterARecord": "29-4-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-26",
+      "division": "Heavyweight",
+      "venue": "N/A, Riyadh, Saudi Arabia",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Anthony Joshua"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "jermall-charlo-koen-mazoudier-2026-07-26",
+      "fighterA": "Jermall Charlo",
+      "fighterB": "Koen Mazoudier",
+      "fighterARecord": "34-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-26",
+      "division": "Middleweight",
+      "venue": "Afterpay Arena, Sydney, New South Wales, Australia",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jermall Charlo"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "errol-spence-jr-tim-tszyu-2026-07-26",
+      "fighterA": "Errol Spence Jr",
+      "fighterB": "Tim Tszyu",
+      "fighterARecord": "28-1-0",
+      "fighterBRecord": "26-3-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-26",
+      "division": "Welterweight",
+      "venue": "Afterpay Arena, Sydney, New South Wales, Australia",
+      "locationImage": "",
+      "title": "Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Errol Spence Jr",
+        "Tim Tszyu"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+    },
+    {
+      "id": "stephen-fulton-liam-wilson-2026-07-26",
+      "fighterA": "Stephen Fulton",
+      "fighterB": "Liam Wilson",
+      "fighterARecord": "23-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-26",
+      "division": "Super Bantamweight",
+      "venue": "Afterpay Arena, Sydney, New South Wales, Australia",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Stephen Fulton"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     }
   ]
 }

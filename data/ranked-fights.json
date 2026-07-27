@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T10:12:43.372Z",
+  "generatedAt": "2026-07-27T11:38:39.722Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -30,27 +30,6 @@
       ],
       "sourceName": "ESPN / Tapology",
       "sourceUrl": "https://www.espn.in/boxing/story/_/id/48420692/amanda-serrano-defend-titles-vs-cheyenne-hanson-mvpw-03"
-    },
-    {
-      "id": "albert-ramirez-lerrone-richards-2026-06-04",
-      "fighterA": "Albert Ramirez",
-      "fighterB": "Lerrone Richards",
-      "fighterARecord": "22-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-04",
-      "division": "Light Heavyweight",
-      "venue": "Casino Montreal, Montreal, Quebec, Canada",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Albert Ramirez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
@@ -203,27 +182,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
     },
     {
-      "id": "ernesto-mercado-juan-carlos-burgos-2026-06-19",
-      "fighterA": "Ernesto Mercado",
-      "fighterB": "Juan Carlos Burgos",
-      "fighterARecord": "18-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-19",
-      "division": "Super Lightweight",
-      "venue": "Thunder Studios, Long Beach, California",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ernesto Mercado"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
-    },
-    {
       "id": "brad-pauls-bradley-goldsmith-2026-06-20",
       "fighterA": "Brad Pauls",
       "fighterB": "Bradley Goldsmith",
@@ -264,27 +222,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "emiliano-vargas-bryce-mills-2026-06-27",
-      "fighterA": "Emiliano Vargas",
-      "fighterB": "Bryce Mills",
-      "fighterARecord": "18-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-27",
-      "division": "Lightweight",
-      "venue": "Barclays Center, Brooklyn, New York, United States",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Emiliano Vargas"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "dennis-thompson-edwin-rodriguez-2026-06-27",
@@ -350,27 +287,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
-      "id": "joe-joyce-artem-suslenkov-2026-07-11",
-      "fighterA": "Joe Joyce",
-      "fighterB": "Artem Suslenkov",
-      "fighterARecord": "",
-      "fighterBRecord": "13-0-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-11",
-      "division": "Heavyweight",
-      "venue": "VTB Arena, Moscow, Russia",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Artem Suslenkov"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
       "id": "diego-pacheco-immanuwel-aleem-2026-07-18",
       "fighterA": "Diego Pacheco",
       "fighterB": "Immanuwel Aleem",
@@ -413,16 +329,16 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     },
     {
-      "id": "tyson-fury-mariusz-wach-2026-07-25",
+      "id": "tyson-fury-mariusz-wach-2026-07-24",
       "fighterA": "Tyson Fury",
       "fighterB": "Mariusz Wach",
-      "fighterARecord": "35-2-1",
+      "fighterARecord": "36-2-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-07-25",
+      "date": "2026-07-24",
       "division": "Heavyweight",
-      "venue": "Max Muay Thai Stadium, Pattaya, Thailand",
+      "venue": "RTD",
       "locationImage": "",
       "title": "Heavyweight bout",
       "result": "Result listed by source",
@@ -455,25 +371,67 @@
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
     },
     {
-      "id": "anthony-joshua-kristian-prenga-2026-07-26",
-      "fighterA": "Anthony Joshua",
-      "fighterB": "Kristian Prenga",
-      "fighterARecord": "29-4-0",
+      "id": "joe-hayden-owen-durnan-2026-07-25",
+      "fighterA": "Joe Hayden",
+      "fighterB": "Owen Durnan",
+      "fighterARecord": "23-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-25",
+      "division": "Welterweight",
+      "venue": "Doncaster Dome, Doncaster, Yorkshire, England",
+      "locationImage": "",
+      "title": "Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Joe Hayden"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+    },
+    {
+      "id": "mikie-tallon-orlando-pino-2026-07-25",
+      "fighterA": "Mikie Tallon",
+      "fighterB": "Orlando Pino",
+      "fighterARecord": "13-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-25",
+      "division": "Flyweight",
+      "venue": "KO",
+      "locationImage": "",
+      "title": "Flyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Mikie Tallon"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/flyweight"
+    },
+    {
+      "id": "edgar-berlanga-steven-butler-2026-07-26",
+      "fighterA": "Edgar Berlanga",
+      "fighterB": "Steven Butler",
+      "fighterARecord": "23-2-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-07-26",
-      "division": "Heavyweight",
-      "venue": "N/A, Riyadh, Saudi Arabia",
+      "division": "Super Middleweight",
+      "venue": "Infosys Theater at Madison Square Garden, New York, New York",
       "locationImage": "",
-      "title": "Heavyweight bout",
+      "title": "Super Middleweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Anthony Joshua"
+        "Edgar Berlanga"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
       "id": "jermall-charlo-koen-mazoudier-2026-07-26",
@@ -500,13 +458,13 @@
       "id": "errol-spence-jr-tim-tszyu-2026-07-26",
       "fighterA": "Errol Spence Jr",
       "fighterB": "Tim Tszyu",
-      "fighterARecord": "28-1-0",
-      "fighterBRecord": "26-3-0",
+      "fighterARecord": "28-2-0",
+      "fighterBRecord": "27-3-0",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-07-26",
       "division": "Welterweight",
-      "venue": "Afterpay Arena, Sydney, New South Wales, Australia",
+      "venue": "UD",
       "locationImage": "",
       "title": "Welterweight bout",
       "result": "Result listed by source",
@@ -517,6 +475,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+    },
+    {
+      "id": "richardson-hitchins-ricardo-salas-2026-07-26",
+      "fighterA": "Richardson Hitchins",
+      "fighterB": "Ricardo Salas",
+      "fighterARecord": "20-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-07-26",
+      "division": "Super Lightweight",
+      "venue": "Infosys Theater at Madison Square Garden, New York, New York",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Richardson Hitchins"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "stephen-fulton-liam-wilson-2026-07-26",

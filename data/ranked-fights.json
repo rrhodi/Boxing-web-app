@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T11:38:39.722Z",
+  "generatedAt": "2026-07-28T10:44:38.760Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -269,7 +269,7 @@
       "id": "kevin-lele-sadjo-adrian-cota-2026-07-04",
       "fighterA": "Kevin Lele Sadjo",
       "fighterB": "Adrian Cota",
-      "fighterARecord": "28-1-0",
+      "fighterARecord": "29-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -416,7 +416,7 @@
       "id": "edgar-berlanga-steven-butler-2026-07-26",
       "fighterA": "Edgar Berlanga",
       "fighterB": "Steven Butler",
-      "fighterARecord": "23-2-0",
+      "fighterARecord": "24-2-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -458,7 +458,7 @@
       "id": "errol-spence-jr-tim-tszyu-2026-07-26",
       "fighterA": "Errol Spence Jr",
       "fighterB": "Tim Tszyu",
-      "fighterARecord": "28-2-0",
+      "fighterARecord": "",
       "fighterBRecord": "27-3-0",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -470,7 +470,6 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Errol Spence Jr",
         "Tim Tszyu"
       ],
       "sourceName": "Boxing Metrics",
@@ -480,7 +479,7 @@
       "id": "richardson-hitchins-ricardo-salas-2026-07-26",
       "fighterA": "Richardson Hitchins",
       "fighterB": "Ricardo Salas",
-      "fighterARecord": "20-0-0",
+      "fighterARecord": "21-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",

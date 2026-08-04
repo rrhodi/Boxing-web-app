@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:43:32.503Z",
+  "generatedAt": "2026-08-04T10:49:33.136Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -516,6 +516,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "charles-conwell-paul-kroll-2026-08-01",
+      "fighterA": "Charles Conwell",
+      "fighterB": "Paul Kroll",
+      "fighterARecord": "21-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-01",
+      "division": "Super Welterweight",
+      "venue": "The Theater at Virgin Hotels, Las Vegas, Nevada, United States",
+      "locationImage": "",
+      "title": "Super Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Charles Conwell"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
+    },
+    {
+      "id": "steven-cairns-senan-kelly-2026-08-01",
+      "fighterA": "Steven Cairns",
+      "fighterB": "Senan Kelly",
+      "fighterARecord": "12-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-01",
+      "division": "Lightweight",
+      "venue": "3Arena, Dublin, Ireland",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Steven Cairns"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     }
   ]
 }

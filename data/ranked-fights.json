@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T09:14:52.798Z",
+  "generatedAt": "2026-08-08T08:59:43.868Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -32,28 +32,6 @@
       "sourceUrl": "https://www.espn.in/boxing/story/_/id/48420692/amanda-serrano-defend-titles-vs-cheyenne-hanson-mvpw-03"
     },
     {
-      "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "fighterA": "Chris Billam-Smith",
-      "fighterB": "Ryan Rozicki",
-      "fighterARecord": "21-2-0",
-      "fighterBRecord": "21-1-1",
-      "date": "2026-06-06",
-      "division": "Cruiserweight",
-      "venue": "Bournemouth International Centre, Bournemouth",
-      "locationImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=900&q=80",
-      "title": "Cruiserweight bout",
-      "result": "",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Chris Billam-Smith",
-        "Ryan Rozicki"
-      ],
-      "sourceName": "BBC Sport / Sky Sports",
-      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c0m200nd3lmo"
-    },
-    {
       "id": "luis-nery-john-riel-casimero-2026-06-06",
       "fighterA": "Luis Nery",
       "fighterB": "John Riel Casimero",
@@ -74,6 +52,28 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "fighterA": "Chris Billam-Smith",
+      "fighterB": "Ryan Rozicki",
+      "fighterARecord": "21-2-0",
+      "fighterBRecord": "21-1-1",
+      "date": "2026-06-06",
+      "division": "Cruiserweight",
+      "venue": "Bournemouth International Centre, Bournemouth",
+      "locationImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=900&q=80",
+      "title": "Cruiserweight bout",
+      "result": "",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Chris Billam-Smith",
+        "Ryan Rozicki"
+      ],
+      "sourceName": "BBC Sport / Sky Sports",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c0m200nd3lmo"
     },
     {
       "id": "arturo-cardenas-jordan-martinez-2026-06-13",
@@ -329,48 +329,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     },
     {
-      "id": "tyson-fury-mariusz-wach-2026-07-24",
-      "fighterA": "Tyson Fury",
-      "fighterB": "Mariusz Wach",
-      "fighterARecord": "36-2-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-24",
-      "division": "Heavyweight",
-      "venue": "RTD",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Tyson Fury"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
-      "id": "anthony-joshua-kristian-prenga-2026-07-25",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "fighterA": "Anthony Joshua",
-      "fighterB": "Kristian Prenga",
-      "fighterARecord": "29-4-0",
-      "fighterBRecord": "20-1-0",
-      "date": "2026-07-25",
-      "division": "Heavyweight",
-      "venue": "Saudi Arabia",
-      "locationImage": "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6?auto=format&fit=crop&w=900&q=80",
-      "title": "Heavyweight bout",
-      "result": "",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Anthony Joshua"
-      ],
-      "sourceName": "Tapology / AS",
-      "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
-    },
-    {
       "id": "joe-hayden-owen-durnan-2026-07-25",
       "fighterA": "Joe Hayden",
       "fighterB": "Owen Durnan",
@@ -411,6 +369,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/flyweight"
+    },
+    {
+      "id": "anthony-joshua-kristian-prenga-2026-07-25",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "fighterA": "Anthony Joshua",
+      "fighterB": "Kristian Prenga",
+      "fighterARecord": "29-4-0",
+      "fighterBRecord": "20-1-0",
+      "date": "2026-07-25",
+      "division": "Heavyweight",
+      "venue": "Saudi Arabia",
+      "locationImage": "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6?auto=format&fit=crop&w=900&q=80",
+      "title": "Heavyweight bout",
+      "result": "",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Anthony Joshua"
+      ],
+      "sourceName": "Tapology / AS",
+      "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
     },
     {
       "id": "edgar-berlanga-steven-butler-2026-07-26",

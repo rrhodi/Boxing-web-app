@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T08:59:43.868Z",
+  "generatedAt": "2026-08-09T09:01:33.904Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -97,27 +97,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
-      "id": "jordan-orozco-fernando-diaz-2026-06-13",
-      "fighterA": "Jordan Orozco",
-      "fighterB": "Fernando Diaz",
-      "fighterARecord": "17-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-13",
-      "division": "Bantamweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jordan Orozco"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
       "id": "jesse-rodriguez-antonio-vargas-2026-06-13",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -140,27 +119,6 @@
       "sourceUrl": "https://www.matchroomboxing.com/events/rodriguez-vs-vargas/"
     },
     {
-      "id": "troy-isley-leonardo-di-stefano-2026-06-14",
-      "fighterA": "Troy Isley",
-      "fighterB": "Leonardo Di Stefano",
-      "fighterARecord": "15-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-14",
-      "division": "Middleweight",
-      "venue": "GLC Live, Grand Rapids, Michigan",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Troy Isley"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
-    },
-    {
       "id": "jonathan-gonzalez-abraham-perez-2026-06-14",
       "fighterA": "Jonathan Gonzalez",
       "fighterB": "Abraham Perez",
@@ -180,27 +138,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
-    },
-    {
-      "id": "brad-pauls-bradley-goldsmith-2026-06-20",
-      "fighterA": "Brad Pauls",
-      "fighterB": "Bradley Goldsmith",
-      "fighterARecord": "",
-      "fighterBRecord": "16-1-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-20",
-      "division": "Middleweight",
-      "venue": "St Mary&#x27;s Stadium, Southampton, England",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Bradley Goldsmith"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
     },
     {
       "id": "ben-whittaker-richard-rivera-2026-06-27",
@@ -537,6 +474,28 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "aaron-mckenna-etinosa-oliha-2026-08-08",
+      "fighterA": "Aaron McKenna",
+      "fighterB": "Etinosa Oliha",
+      "fighterARecord": "20-0-0",
+      "fighterBRecord": "22-0-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-08",
+      "division": "Middleweight",
+      "venue": "3Arena, Dublin, Ireland",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Aaron McKenna",
+        "Etinosa Oliha"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
     }
   ]
 }

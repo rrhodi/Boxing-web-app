@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:44:43.220Z",
+  "generatedAt": "2026-08-16T08:46:11.283Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -30,28 +30,6 @@
       ],
       "sourceName": "ESPN / Tapology",
       "sourceUrl": "https://www.espn.in/boxing/story/_/id/48420692/amanda-serrano-defend-titles-vs-cheyenne-hanson-mvpw-03"
-    },
-    {
-      "id": "luis-nery-john-riel-casimero-2026-06-06",
-      "fighterA": "Luis Nery",
-      "fighterB": "John Riel Casimero",
-      "fighterARecord": "37-2-0",
-      "fighterBRecord": "35-5-1",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-06",
-      "division": "Super Bantamweight",
-      "venue": "Aichi Sky Expo, Tokoname, Aichi",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Luis Nery",
-        "John Riel Casimero"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
       "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
@@ -350,27 +328,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
-      "id": "jermall-charlo-koen-mazoudier-2026-07-26",
-      "fighterA": "Jermall Charlo",
-      "fighterB": "Koen Mazoudier",
-      "fighterARecord": "34-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-26",
-      "division": "Middleweight",
-      "venue": "Afterpay Arena, Sydney, New South Wales, Australia",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jermall Charlo"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
-    },
-    {
       "id": "errol-spence-jr-tim-tszyu-2026-07-26",
       "fighterA": "Errol Spence Jr",
       "fighterB": "Tim Tszyu",
@@ -496,6 +453,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "troy-isley-joseph-hicks-jr-2026-08-15",
+      "fighterA": "Troy Isley",
+      "fighterB": "Joseph Hicks Jr.",
+      "fighterARecord": "15-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-15",
+      "division": "Middleweight",
+      "venue": "State Farm Arena, Atlanta, Georgia",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Troy Isley"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "ernesto-mercado-emmanuel-tagoe-2026-08-15",
+      "fighterA": "Ernesto Mercado",
+      "fighterB": "Emmanuel Tagoe",
+      "fighterARecord": "18-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-15",
+      "division": "Super Lightweight",
+      "venue": "State Farm Arena, Atlanta, Georgia",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ernesto Mercado"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     }
   ]
 }

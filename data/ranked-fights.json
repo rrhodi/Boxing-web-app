@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T08:54:02.656Z",
+  "generatedAt": "2026-08-20T08:56:15.002Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -118,27 +118,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
     },
     {
-      "id": "ben-whittaker-richard-rivera-2026-06-27",
-      "fighterA": "Ben Whittaker",
-      "fighterB": "Richard Rivera",
-      "fighterARecord": "12-0-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-27",
-      "division": "Light Heavyweight",
-      "venue": "Barclays Center, Brooklyn, New York, United States",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ben Whittaker"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
       "id": "dennis-thompson-edwin-rodriguez-2026-06-27",
       "fighterA": "Dennis Thompson",
       "fighterB": "Edwin Rodriguez",
@@ -179,27 +158,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
-      "id": "kevin-lele-sadjo-adrian-cota-2026-07-04",
-      "fighterA": "Kevin Lele Sadjo",
-      "fighterB": "Adrian Cota",
-      "fighterARecord": "29-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-04",
-      "division": "Super Middleweight",
-      "venue": "Palais des Sports Robert Oubron, Creteil, Val-de-Marne, France",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Kevin Lele Sadjo"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
       "id": "diego-pacheco-immanuwel-aleem-2026-07-18",
@@ -453,6 +411,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "atif-oberlton-roamer-alexis-angulo-2026-08-15",
+      "fighterA": "Atif Oberlton",
+      "fighterB": "Roamer Alexis Angulo",
+      "fighterARecord": "15-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-15",
+      "division": "Light Heavyweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Atif Oberlton"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "troy-isley-joseph-hicks-jr-2026-08-15",

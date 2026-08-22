@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:57:39.754Z",
+  "generatedAt": "2026-08-22T08:47:13.848Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -137,27 +137,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
-      "id": "omar-trinidad-jerwin-ancajas-2026-06-28",
-      "fighterA": "Omar Trinidad",
-      "fighterB": "Jerwin Ancajas",
-      "fighterARecord": "19-0-2",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-28",
-      "division": "Featherweight",
-      "venue": "The Chelsea at the Cosmopolitan, Las Vegas, Nevada, United States",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Omar Trinidad"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "diego-pacheco-immanuwel-aleem-2026-07-18",
@@ -516,6 +495,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
+    },
+    {
+      "id": "amanda-serrano-lucrecia-manzur-2026-08-21",
+      "fighterA": "Amanda Serrano",
+      "fighterB": "Lucrecia Manzur",
+      "fighterARecord": "49-4-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-21",
+      "division": "Featherweight",
+      "venue": "Pechanga Resort & Casino, Temecula, California",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Amanda Serrano"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     }
   ]
 }

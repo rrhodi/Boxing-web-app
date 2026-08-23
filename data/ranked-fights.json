@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:47:13.848Z",
+  "generatedAt": "2026-08-23T08:47:50.228Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -137,27 +137,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
-      "id": "diego-pacheco-immanuwel-aleem-2026-07-18",
-      "fighterA": "Diego Pacheco",
-      "fighterB": "Immanuwel Aleem",
-      "fighterARecord": "25-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-18",
-      "division": "Super Middleweight",
-      "venue": "Dignity Health Sports Park, Los Angeles, California, United States",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Diego Pacheco"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
       "id": "charly-suarez-manuel-avila-2026-07-18",
@@ -389,28 +368,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
-    {
-      "id": "aaron-mckenna-etinosa-oliha-2026-08-08",
-      "fighterA": "Aaron McKenna",
-      "fighterB": "Etinosa Oliha",
-      "fighterARecord": "20-0-0",
-      "fighterBRecord": "22-1-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-08",
-      "division": "Middleweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Aaron McKenna",
-        "Etinosa Oliha"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
     },
     {
       "id": "troy-williamson-callum-simpson-2026-08-08",

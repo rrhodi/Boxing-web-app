@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:04:13.924Z",
+  "generatedAt": "2026-08-25T08:59:41.508Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -118,9 +118,9 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
     },
     {
-      "id": "dennis-thompson-edwin-rodriguez-2026-06-27",
+      "id": "dennis-thompson-carlos-rodriguez-2026-06-27",
       "fighterA": "Dennis Thompson",
-      "fighterB": "Edwin Rodriguez",
+      "fighterB": "Carlos Rodriguez",
       "fighterARecord": "11-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
@@ -457,13 +457,13 @@
       "id": "amanda-serrano-lucrecia-manzur-2026-08-21",
       "fighterA": "Amanda Serrano",
       "fighterB": "Lucrecia Manzur",
-      "fighterARecord": "49-4-1",
+      "fighterARecord": "50-4-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-08-21",
       "division": "Featherweight",
-      "venue": "Pechanga Resort & Casino, Temecula, California",
+      "venue": "MD",
       "locationImage": "",
       "title": "Featherweight bout",
       "result": "Result listed by source",

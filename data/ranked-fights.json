@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:59:41.508Z",
+  "generatedAt": "2026-08-26T09:01:38.342Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -52,27 +52,6 @@
       ],
       "sourceName": "BBC Sport / Sky Sports",
       "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c0m200nd3lmo"
-    },
-    {
-      "id": "arturo-cardenas-jordan-martinez-2026-06-13",
-      "fighterA": "Arturo Cardenas",
-      "fighterB": "Jordan Martinez",
-      "fighterARecord": "17-0-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-13",
-      "division": "Super Bantamweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Arturo Cardenas"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
       "id": "jesse-rodriguez-antonio-vargas-2026-06-13",
@@ -158,27 +137,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
-    },
-    {
-      "id": "joe-hayden-owen-durnan-2026-07-25",
-      "fighterA": "Joe Hayden",
-      "fighterB": "Owen Durnan",
-      "fighterARecord": "23-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-25",
-      "division": "Welterweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Joe Hayden"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
     },
     {
       "id": "mikie-tallon-orlando-pino-2026-07-25",

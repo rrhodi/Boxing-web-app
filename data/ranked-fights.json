@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:01:38.342Z",
+  "generatedAt": "2026-08-27T19:04:10.073Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -263,27 +263,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "charles-conwell-paul-kroll-2026-08-01",
-      "fighterA": "Charles Conwell",
-      "fighterB": "Paul Kroll",
-      "fighterARecord": "21-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-01",
-      "division": "Super Welterweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Charles Conwell"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
     },
     {
       "id": "steven-cairns-senan-kelly-2026-08-01",

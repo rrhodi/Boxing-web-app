@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T20:11:51.171Z",
+  "generatedAt": "2026-08-29T13:49:48.205Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -54,27 +54,6 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c0m200nd3lmo"
     },
     {
-      "id": "jonathan-gonzalez-abraham-perez-2026-06-13",
-      "fighterA": "Jonathan Gonzalez",
-      "fighterB": "Abraham Perez",
-      "fighterARecord": "28-4-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-13",
-      "division": "Light Flyweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Light Flyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jonathan Gonzalez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
-    },
-    {
       "id": "jesse-rodriguez-antonio-vargas-2026-06-13",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -97,14 +76,35 @@
       "sourceUrl": "https://www.matchroomboxing.com/events/rodriguez-vs-vargas/"
     },
     {
-      "id": "dennis-thompson-carlos-rodriguez-2026-06-26",
+      "id": "jonathan-gonzalez-abraham-perez-2026-06-14",
+      "fighterA": "Jonathan Gonzalez",
+      "fighterB": "Abraham Perez",
+      "fighterARecord": "28-4-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-06-14",
+      "division": "Light Flyweight",
+      "venue": "SD",
+      "locationImage": "",
+      "title": "Light Flyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jonathan Gonzalez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
+    },
+    {
+      "id": "dennis-thompson-carlos-rodriguez-2026-06-27",
       "fighterA": "Dennis Thompson",
       "fighterB": "Carlos Rodriguez",
       "fighterARecord": "11-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "division": "Bantamweight",
       "venue": "Barclays Center, Brooklyn, New York, United States",
       "locationImage": "",
@@ -116,27 +116,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
-      "id": "charly-suarez-manuel-avila-2026-07-17",
-      "fighterA": "Charly Suarez",
-      "fighterB": "Manuel Avila",
-      "fighterARecord": "18-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-17",
-      "division": "Super Featherweight",
-      "venue": "National Orange Show, San Bernardino, California",
-      "locationImage": "",
-      "title": "Super Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Charly Suarez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     },
     {
       "id": "riku-masuda-daigo-higa-2026-07-20",
@@ -158,48 +137,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
-      "id": "edgar-berlanga-steven-butler-2026-07-25",
-      "fighterA": "Edgar Berlanga",
-      "fighterB": "Steven Butler",
-      "fighterARecord": "24-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-25",
-      "division": "Super Middleweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Edgar Berlanga"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
-    },
-    {
-      "id": "richardson-hitchins-ricardo-salas-2026-07-25",
-      "fighterA": "Richardson Hitchins",
-      "fighterB": "Ricardo Salas",
-      "fighterARecord": "21-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-25",
-      "division": "Super Lightweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Richardson Hitchins"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "mikie-tallon-orlando-pino-2026-07-25",
@@ -244,25 +181,25 @@
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
     },
     {
-      "id": "errol-spence-jr-tim-tszyu-2026-07-26",
-      "fighterA": "Errol Spence Jr",
-      "fighterB": "Tim Tszyu",
-      "fighterARecord": "",
-      "fighterBRecord": "27-3-0",
+      "id": "edgar-berlanga-steven-butler-2026-07-26",
+      "fighterA": "Edgar Berlanga",
+      "fighterB": "Steven Butler",
+      "fighterARecord": "24-2-0",
+      "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-07-26",
-      "division": "Welterweight",
-      "venue": "UD",
+      "division": "Super Middleweight",
+      "venue": "TKO",
       "locationImage": "",
-      "title": "Welterweight bout",
+      "title": "Super Middleweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Tim Tszyu"
+        "Edgar Berlanga"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
       "id": "stephen-fulton-liam-wilson-2026-07-26",
@@ -328,14 +265,14 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
-      "id": "atif-oberlton-roamer-alexis-angulo-2026-08-14",
+      "id": "atif-oberlton-roamer-alexis-angulo-2026-08-15",
       "fighterA": "Atif Oberlton",
       "fighterB": "Roamer Alexis Angulo",
       "fighterARecord": "15-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "division": "Light Heavyweight",
       "venue": "UD",
       "locationImage": "",
@@ -349,35 +286,14 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
-      "id": "troy-isley-joseph-hicks-jr-2026-08-15",
-      "fighterA": "Troy Isley",
-      "fighterB": "Joseph Hicks Jr.",
-      "fighterARecord": "15-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-15",
-      "division": "Middleweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Troy Isley"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
-    },
-    {
-      "id": "amanda-serrano-lucrecia-manzur-2026-08-20",
+      "id": "amanda-serrano-lucrecia-manzur-2026-08-21",
       "fighterA": "Amanda Serrano",
       "fighterB": "Lucrecia Manzur",
       "fighterARecord": "50-4-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "division": "Featherweight",
       "venue": "MD",
       "locationImage": "",
@@ -391,14 +307,14 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
-      "id": "mayelli-flores-melissa-mortensen-2026-08-20",
+      "id": "mayelli-flores-melissa-mortensen-2026-08-21",
       "fighterA": "Mayelli Flores",
       "fighterB": "Melissa Mortensen",
       "fighterARecord": "",
       "fighterBRecord": "10-0-0",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "division": "Super Bantamweight",
       "venue": "SD",
       "locationImage": "",
@@ -410,27 +326,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "carlos-utria-israel-mercado-2026-08-21",
-      "fighterA": "Carlos Utria",
-      "fighterB": "Israel Mercado",
-      "fighterARecord": "15-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-21",
-      "division": "Super Lightweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Carlos Utria"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "george-liddard-dario-morello-2026-08-22",
@@ -452,6 +347,174 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "carlos-utria-israel-mercado-2026-08-23",
+      "fighterA": "Carlos Utria",
+      "fighterB": "Israel Mercado",
+      "fighterARecord": "15-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-23",
+      "division": "Super Lightweight",
+      "venue": "SD",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Carlos Utria"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
+    },
+    {
+      "id": "nelson-hysa-thomas-narmo-2026-08-29",
+      "fighterA": "Nelson Hysa",
+      "fighterB": "Thomas Narmo",
+      "fighterARecord": "24-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Heavyweight",
+      "venue": "O2 Arena, Greenwich, London",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Nelson Hysa"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "moses-itauma-filip-hrgovic-2026-08-29",
+      "fighterA": "Moses Itauma",
+      "fighterB": "Filip Hrgovic",
+      "fighterARecord": "",
+      "fighterBRecord": "22-2-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Heavyweight",
+      "venue": "O2 Arena, Greenwich, London",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Filip Hrgovic"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "jose-lopez-juan-carrillo-2026-08-29",
+      "fighterA": "Jose Lopez",
+      "fighterB": "Juan Carrillo",
+      "fighterARecord": "",
+      "fighterBRecord": "15-1-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Light Heavyweight",
+      "venue": "Galen Center, Los Angeles, California, United States",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Juan Carrillo"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "lester-martinez-luka-plantic-2026-08-29",
+      "fighterA": "Lester Martinez",
+      "fighterB": "Luka Plantic",
+      "fighterARecord": "20-0-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Super Middleweight",
+      "venue": "Galen Center, Los Angeles, California, United States",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Lester Martinez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
+      "id": "mauricio-lara-carlos-ornelas-2026-08-29",
+      "fighterA": "Mauricio Lara",
+      "fighterB": "Carlos Ornelas",
+      "fighterARecord": "29-3-2",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Super Featherweight",
+      "venue": "Complejo Deportivo de Artes Marciales, Mexico",
+      "locationImage": "",
+      "title": "Super Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Mauricio Lara"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+    },
+    {
+      "id": "david-picasso-maicol-rincon-2026-08-29",
+      "fighterA": "David Picasso",
+      "fighterB": "Maicol Rincon",
+      "fighterARecord": "32-2-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Super Bantamweight",
+      "venue": "Sala Urbana, Naucalpan, Mexico",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "David Picasso"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "ramon-cardenas-leonardo-carrillo-2026-08-29",
+      "fighterA": "Ramon Cardenas",
+      "fighterB": "Leonardo Carrillo",
+      "fighterARecord": "27-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Super Bantamweight",
+      "venue": "Galen Center, Los Angeles, California, United States",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ramon Cardenas"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     }
   ]
 }

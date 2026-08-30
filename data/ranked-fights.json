@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:49:48.205Z",
+  "generatedAt": "2026-08-30T13:47:45.097Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "amanda-serrano-cheyenne-hanson-2026-05-30",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "fighterA": "Amanda Serrano",
-      "fighterB": "Cheyenne Hanson",
-      "fighterARecord": "48-4-1",
-      "fighterBRecord": "17-2-0",
-      "date": "2026-05-30",
-      "division": "Featherweight",
-      "venue": "County Coliseum, El Paso, USA",
-      "locationImage": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=900&q=80",
-      "title": "WBA and WBO featherweight titles",
-      "result": "",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Amanda Serrano"
-      ],
-      "sourceName": "ESPN / Tapology",
-      "sourceUrl": "https://www.espn.in/boxing/story/_/id/48420692/amanda-serrano-defend-titles-vs-cheyenne-hanson-mvpw-03"
-    },
     {
       "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
       "fighterAImage": "",
@@ -179,48 +158,6 @@
       ],
       "sourceName": "Tapology / AS",
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
-    },
-    {
-      "id": "edgar-berlanga-steven-butler-2026-07-26",
-      "fighterA": "Edgar Berlanga",
-      "fighterB": "Steven Butler",
-      "fighterARecord": "24-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-26",
-      "division": "Super Middleweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Edgar Berlanga"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
-    },
-    {
-      "id": "stephen-fulton-liam-wilson-2026-07-26",
-      "fighterA": "Stephen Fulton",
-      "fighterB": "Liam Wilson",
-      "fighterARecord": "23-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-26",
-      "division": "Super Bantamweight",
-      "venue": "Afterpay Arena, Sydney, New South Wales, Australia",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Stephen Fulton"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
       "id": "steven-cairns-senan-kelly-2026-08-01",
@@ -379,7 +316,7 @@
       "fighterBImage": "",
       "date": "2026-08-29",
       "division": "Heavyweight",
-      "venue": "O2 Arena, Greenwich, London",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Heavyweight bout",
       "result": "Result listed by source",
@@ -400,7 +337,7 @@
       "fighterBImage": "",
       "date": "2026-08-29",
       "division": "Heavyweight",
-      "venue": "O2 Arena, Greenwich, London",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Heavyweight bout",
       "result": "Result listed by source",
@@ -473,6 +410,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+    },
+    {
+      "id": "brandon-mosqueda-edwin-palomares-2026-08-29",
+      "fighterA": "Brandon Mosqueda",
+      "fighterB": "Edwin Palomares",
+      "fighterARecord": "12-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Featherweight",
+      "venue": "Complejo Deportivo de Artes Marciales, Guadalajara, Jalisco, Mexico",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Brandon Mosqueda"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "david-picasso-maicol-rincon-2026-08-29",

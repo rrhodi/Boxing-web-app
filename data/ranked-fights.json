@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T13:47:45.097Z",
+  "generatedAt": "2026-08-31T16:09:26.687Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -76,9 +76,9 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
     },
     {
-      "id": "dennis-thompson-carlos-rodriguez-2026-06-27",
+      "id": "dennis-thompson-edwin-rodriguez-2026-06-27",
       "fighterA": "Dennis Thompson",
-      "fighterB": "Carlos Rodriguez",
+      "fighterB": "Edwin Rodriguez",
       "fighterARecord": "11-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
@@ -310,7 +310,7 @@
       "id": "nelson-hysa-thomas-narmo-2026-08-29",
       "fighterA": "Nelson Hysa",
       "fighterB": "Thomas Narmo",
-      "fighterARecord": "24-0-0",
+      "fighterARecord": "25-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -332,7 +332,7 @@
       "fighterA": "Moses Itauma",
       "fighterB": "Filip Hrgovic",
       "fighterARecord": "",
-      "fighterBRecord": "22-2-0",
+      "fighterBRecord": "23-2-0",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-08-29",
@@ -349,8 +349,8 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
-      "id": "jose-lopez-juan-carrillo-2026-08-29",
-      "fighterA": "Jose Lopez",
+      "id": "najee-lopez-juan-carrillo-2026-08-29",
+      "fighterA": "Najee Lopez",
       "fighterB": "Juan Carrillo",
       "fighterARecord": "",
       "fighterBRecord": "15-1-0",
@@ -394,7 +394,7 @@
       "id": "mauricio-lara-carlos-ornelas-2026-08-29",
       "fighterA": "Mauricio Lara",
       "fighterB": "Carlos Ornelas",
-      "fighterARecord": "29-3-2",
+      "fighterARecord": "30-3-2",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",

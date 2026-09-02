@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:29:40.011Z",
+  "generatedAt": "2026-09-02T12:46:12.998Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -76,27 +76,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
     },
     {
-      "id": "dennis-thompson-edwin-rodriguez-2026-06-27",
-      "fighterA": "Dennis Thompson",
-      "fighterB": "Edwin Rodriguez",
-      "fighterARecord": "11-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-27",
-      "division": "Bantamweight",
-      "venue": "Barclays Center, Brooklyn, New York, United States",
-      "locationImage": "",
-      "title": "Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Dennis Thompson"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
       "id": "riku-masuda-daigo-higa-2026-07-20",
       "fighterA": "Riku Masuda",
       "fighterB": "Daigo Higa",
@@ -158,27 +137,6 @@
       ],
       "sourceName": "Tapology / AS",
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
-    },
-    {
-      "id": "steven-cairns-senan-kelly-2026-08-01",
-      "fighterA": "Steven Cairns",
-      "fighterB": "Senan Kelly",
-      "fighterARecord": "14-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-01",
-      "division": "Lightweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Steven Cairns"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "billy-deniz-alex-carter-2026-08-08",
@@ -379,7 +337,7 @@
       "fighterBImage": "",
       "date": "2026-08-29",
       "division": "Super Middleweight",
-      "venue": "Galen Center, Los Angeles, California, United States",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Super Middleweight bout",
       "result": "Result listed by source",
@@ -400,7 +358,7 @@
       "fighterBImage": "",
       "date": "2026-08-29",
       "division": "Super Featherweight",
-      "venue": "Complejo Deportivo de Artes Marciales, Mexico",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Super Featherweight bout",
       "result": "Result listed by source",
@@ -410,6 +368,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+    },
+    {
+      "id": "reina-tellez-jess-barry-2026-08-29",
+      "fighterA": "Reina Tellez",
+      "fighterB": "Jess Barry",
+      "fighterARecord": "14-1-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Featherweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Reina Tellez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "brandon-mosqueda-edwin-palomares-2026-08-29",
@@ -442,7 +421,7 @@
       "fighterBImage": "",
       "date": "2026-08-29",
       "division": "Super Bantamweight",
-      "venue": "Sala Urbana, Naucalpan, Mexico",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Super Bantamweight bout",
       "result": "Result listed by source",
@@ -463,7 +442,7 @@
       "fighterBImage": "",
       "date": "2026-08-29",
       "division": "Super Bantamweight",
-      "venue": "Galen Center, Los Angeles, California, United States",
+      "venue": "SD",
       "locationImage": "",
       "title": "Super Bantamweight bout",
       "result": "Result listed by source",

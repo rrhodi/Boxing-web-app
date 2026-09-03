@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:46:12.998Z",
+  "generatedAt": "2026-09-03T12:49:15.061Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -452,6 +452,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "jhon-orobio-antonio-moran-2026-09-03",
+      "fighterA": "Jhon Orobio",
+      "fighterB": "Antonio Moran",
+      "fighterARecord": "16-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-03",
+      "division": "Lightweight",
+      "venue": "Casino Montreal, Montreal, Quebec, Canada",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jhon Orobio"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     }
   ]
 }

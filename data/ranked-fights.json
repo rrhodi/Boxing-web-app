@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:49:15.061Z",
+  "generatedAt": "2026-09-04T12:43:05.189Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -473,6 +473,70 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "andy-ruiz-jr-damian-knyba-2026-09-04",
+      "fighterA": "Andy Ruiz Jr.",
+      "fighterB": "Damian Knyba",
+      "fighterARecord": "35-2-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-04",
+      "division": "Heavyweight",
+      "venue": "Prudential Center, Newark, New Jersey",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Andy Ruiz Jr."
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "vito-mielnicki-jr-austin-williams-2026-09-04",
+      "fighterA": "Vito Mielnicki Jr.",
+      "fighterB": "Austin Williams",
+      "fighterARecord": "22-1-1",
+      "fighterBRecord": "20-2-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-04",
+      "division": "Super Welterweight",
+      "venue": "Prudential Center, Newark, New Jersey",
+      "locationImage": "",
+      "title": "Super Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Vito Mielnicki Jr.",
+        "Austin Williams"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
+    },
+    {
+      "id": "dennis-thompson-jose-casillas-2026-09-04",
+      "fighterA": "Dennis Thompson",
+      "fighterB": "Jose Casillas",
+      "fighterARecord": "11-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-04",
+      "division": "Bantamweight",
+      "venue": "Prudential Center, Newark, New Jersey",
+      "locationImage": "",
+      "title": "Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Dennis Thompson"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
     }
   ]
 }

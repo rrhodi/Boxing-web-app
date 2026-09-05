@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:43:05.189Z",
+  "generatedAt": "2026-09-05T11:49:42.599Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -179,27 +179,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "amanda-serrano-lucrecia-manzur-2026-08-21",
-      "fighterA": "Amanda Serrano",
-      "fighterB": "Lucrecia Manzur",
-      "fighterARecord": "50-4-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-21",
-      "division": "Featherweight",
-      "venue": "MD",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Amanda Serrano"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "mayelli-flores-melissa-mortensen-2026-08-21",
@@ -537,6 +516,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
+    },
+    {
+      "id": "katie-taylor-flora-pili-2026-09-05",
+      "fighterA": "Katie Taylor",
+      "fighterB": "Flora Pili",
+      "fighterARecord": "25-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-05",
+      "division": "Super Lightweight",
+      "venue": "Croke Park, Dublin, Ireland",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Katie Taylor"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     }
   ]
 }

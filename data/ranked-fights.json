@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T11:49:42.599Z",
+  "generatedAt": "2026-09-06T12:08:22.671Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,28 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "chris-billam-smith-ryan-rozicki-2026-06-06",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "fighterA": "Chris Billam-Smith",
-      "fighterB": "Ryan Rozicki",
-      "fighterARecord": "21-2-0",
-      "fighterBRecord": "21-1-1",
-      "date": "2026-06-06",
-      "division": "Cruiserweight",
-      "venue": "Bournemouth International Centre, Bournemouth",
-      "locationImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=900&q=80",
-      "title": "Cruiserweight bout",
-      "result": "",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Chris Billam-Smith",
-        "Ryan Rozicki"
-      ],
-      "sourceName": "BBC Sport / Sky Sports",
-      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c0m200nd3lmo"
-    },
     {
       "id": "jesse-rodriguez-antonio-vargas-2026-06-13",
       "fighterAImage": "",
@@ -442,7 +420,7 @@
       "fighterBImage": "",
       "date": "2026-09-03",
       "division": "Lightweight",
-      "venue": "Casino Montreal, Montreal, Quebec, Canada",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Lightweight bout",
       "result": "Result listed by source",
@@ -463,7 +441,7 @@
       "fighterBImage": "",
       "date": "2026-09-04",
       "division": "Heavyweight",
-      "venue": "Prudential Center, Newark, New Jersey",
+      "venue": "UD",
       "locationImage": "",
       "title": "Heavyweight bout",
       "result": "Result listed by source",
@@ -484,7 +462,7 @@
       "fighterBImage": "",
       "date": "2026-09-04",
       "division": "Super Welterweight",
-      "venue": "Prudential Center, Newark, New Jersey",
+      "venue": "UD",
       "locationImage": "",
       "title": "Super Welterweight bout",
       "result": "Result listed by source",
@@ -506,7 +484,7 @@
       "fighterBImage": "",
       "date": "2026-09-04",
       "division": "Bantamweight",
-      "venue": "Prudential Center, Newark, New Jersey",
+      "venue": "UD",
       "locationImage": "",
       "title": "Bantamweight bout",
       "result": "Result listed by source",
@@ -527,7 +505,7 @@
       "fighterBImage": "",
       "date": "2026-09-05",
       "division": "Super Lightweight",
-      "venue": "Croke Park, Dublin, Ireland",
+      "venue": "UD",
       "locationImage": "",
       "title": "Super Lightweight bout",
       "result": "Result listed by source",

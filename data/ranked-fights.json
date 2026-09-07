@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:08:22.671Z",
+  "generatedAt": "2026-09-07T14:14:53.982Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -180,27 +180,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
-      "id": "george-liddard-dario-morello-2026-08-22",
-      "fighterA": "George Liddard",
-      "fighterB": "Dario Morello",
-      "fighterARecord": "15-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-22",
-      "division": "Middleweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "George Liddard"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
-    },
-    {
       "id": "carlos-utria-israel-mercado-2026-08-23",
       "fighterA": "Carlos Utria",
       "fighterB": "Israel Mercado",
@@ -222,27 +201,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
-      "id": "nelson-hysa-thomas-narmo-2026-08-29",
-      "fighterA": "Nelson Hysa",
-      "fighterB": "Thomas Narmo",
-      "fighterARecord": "25-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Nelson Hysa"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
       "id": "moses-itauma-filip-hrgovic-2026-08-29",
       "fighterA": "Moses Itauma",
       "fighterB": "Filip Hrgovic",
@@ -259,6 +217,27 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Filip Hrgovic"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "nelson-hysa-thomas-narmo-2026-08-29",
+      "fighterA": "Nelson Hysa",
+      "fighterB": "Thomas Narmo",
+      "fighterARecord": "25-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Heavyweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Nelson Hysa"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
@@ -327,27 +306,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     },
     {
-      "id": "reina-tellez-jess-barry-2026-08-29",
-      "fighterA": "Reina Tellez",
-      "fighterB": "Jess Barry",
-      "fighterARecord": "14-1-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Featherweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Reina Tellez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
       "id": "brandon-mosqueda-edwin-palomares-2026-08-29",
       "fighterA": "Brandon Mosqueda",
       "fighterB": "Edwin Palomares",
@@ -369,25 +327,25 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
-      "id": "david-picasso-maicol-rincon-2026-08-29",
-      "fighterA": "David Picasso",
-      "fighterB": "Maicol Rincon",
-      "fighterARecord": "32-2-1",
+      "id": "reina-tellez-jess-barry-2026-08-29",
+      "fighterA": "Reina Tellez",
+      "fighterB": "Jess Barry",
+      "fighterARecord": "14-1-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-08-29",
-      "division": "Super Bantamweight",
-      "venue": "TKO",
+      "division": "Featherweight",
+      "venue": "UD",
       "locationImage": "",
-      "title": "Super Bantamweight bout",
+      "title": "Featherweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "David Picasso"
+        "Reina Tellez"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "ramon-cardenas-leonardo-carrillo-2026-08-29",
@@ -406,6 +364,27 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Ramon Cardenas"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "david-picasso-maicol-rincon-2026-08-29",
+      "fighterA": "David Picasso",
+      "fighterB": "Maicol Rincon",
+      "fighterARecord": "32-2-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Super Bantamweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "David Picasso"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
@@ -453,6 +432,27 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
+      "id": "ilari-kujala-liam-smith-2026-09-04",
+      "fighterA": "Ilari Kujala",
+      "fighterB": "Liam Smith",
+      "fighterARecord": "",
+      "fighterBRecord": "33-6-1",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-04",
+      "division": "Middleweight",
+      "venue": "Varuboden Areena, Kirkkonummi, Finland",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Liam Smith"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
       "id": "vito-mielnicki-jr-austin-williams-2026-09-04",
       "fighterA": "Vito Mielnicki Jr.",
       "fighterB": "Austin Williams",
@@ -473,6 +473,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
+    },
+    {
+      "id": "alan-chaves-eridson-garcia-2026-09-04",
+      "fighterA": "Alan Chaves",
+      "fighterB": "Eridson Garcia",
+      "fighterARecord": "20-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-04",
+      "division": "Lightweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Alan Chaves"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "dennis-thompson-jose-casillas-2026-09-04",

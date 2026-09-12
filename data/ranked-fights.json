@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:49:18.460Z",
+  "generatedAt": "2026-09-12T12:10:03.390Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -390,6 +390,27 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
+      "id": "moreno-fendero-stephane-fondjo-2026-09-03",
+      "fighterA": "Moreno Fendero",
+      "fighterB": "Stephane Fondjo",
+      "fighterARecord": "15-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-03",
+      "division": "Super Middleweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Moreno Fendero"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
       "id": "jhon-orobio-antonio-moran-2026-09-03",
       "fighterA": "Jhon Orobio",
       "fighterB": "Antonio Moran",
@@ -536,6 +557,49 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
+    },
+    {
+      "id": "jai-opetaia-noel-mikaelyan-2026-09-12",
+      "fighterA": "Jai Opetaia",
+      "fighterB": "Noel Mikaelyan",
+      "fighterARecord": "30-0-0",
+      "fighterBRecord": "28-3-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-12",
+      "division": "Cruiserweight",
+      "venue": "T Mobile Arena, Las Vegas, Nevada, United States",
+      "locationImage": "",
+      "title": "Cruiserweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jai Opetaia",
+        "Noel Mikaelyan"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
+    },
+    {
+      "id": "damazion-vanhouter-raphael-akpejiori-2026-09-12",
+      "fighterA": "Damazion Vanhouter",
+      "fighterB": "Raphael Akpejiori",
+      "fighterARecord": "12-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-12",
+      "division": "Light Heavyweight",
+      "venue": "T Mobile Arena, Las Vegas, Nevada, United States",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Damazion Vanhouter"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     }
   ]
 }

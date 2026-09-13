@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:10:03.390Z",
+  "generatedAt": "2026-09-13T13:18:20.433Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,28 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "jesse-rodriguez-antonio-vargas-2026-06-13",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "fighterA": "Jesse Rodriguez",
-      "fighterB": "Antonio Vargas",
-      "fighterARecord": "23-0-0",
-      "fighterBRecord": "19-1-1",
-      "date": "2026-06-13",
-      "division": "Bantamweight",
-      "venue": "Desert Diamond Arena, Glendale, AZ",
-      "locationImage": "https://images.unsplash.com/photo-1518604666860-9ed391f76460?auto=format&fit=crop&w=900&q=80",
-      "title": "WBA World Bantamweight Title",
-      "result": "",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jesse Rodriguez",
-        "Antonio Vargas"
-      ],
-      "sourceName": "Matchroom Boxing / ESPN",
-      "sourceUrl": "https://www.matchroomboxing.com/events/rodriguez-vs-vargas/"
-    },
     {
       "id": "jonathan-gonzalez-abraham-perez-2026-06-14",
       "fighterA": "Jonathan Gonzalez",
@@ -201,27 +179,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
-      "id": "moses-itauma-filip-hrgovic-2026-08-29",
-      "fighterA": "Moses Itauma",
-      "fighterB": "Filip Hrgovic",
-      "fighterARecord": "",
-      "fighterBRecord": "23-2-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Filip Hrgovic"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
       "id": "nelson-hysa-thomas-narmo-2026-08-29",
       "fighterA": "Nelson Hysa",
       "fighterB": "Thomas Narmo",
@@ -238,6 +195,27 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Nelson Hysa"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "moses-itauma-filip-hrgovic-2026-08-29",
+      "fighterA": "Moses Itauma",
+      "fighterB": "Filip Hrgovic",
+      "fighterARecord": "",
+      "fighterBRecord": "23-2-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Heavyweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Filip Hrgovic"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
@@ -285,25 +263,25 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
     },
     {
-      "id": "mauricio-lara-carlos-ornelas-2026-08-29",
-      "fighterA": "Mauricio Lara",
-      "fighterB": "Carlos Ornelas",
-      "fighterARecord": "30-3-2",
+      "id": "reina-tellez-jess-barry-2026-08-29",
+      "fighterA": "Reina Tellez",
+      "fighterB": "Jess Barry",
+      "fighterARecord": "14-1-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-08-29",
-      "division": "Super Featherweight",
-      "venue": "TKO",
+      "division": "Featherweight",
+      "venue": "UD",
       "locationImage": "",
-      "title": "Super Featherweight bout",
+      "title": "Featherweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Mauricio Lara"
+        "Reina Tellez"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "brandon-mosqueda-edwin-palomares-2026-08-29",
@@ -327,25 +305,25 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
-      "id": "reina-tellez-jess-barry-2026-08-29",
-      "fighterA": "Reina Tellez",
-      "fighterB": "Jess Barry",
-      "fighterARecord": "14-1-1",
+      "id": "david-picasso-maicol-rincon-2026-08-29",
+      "fighterA": "David Picasso",
+      "fighterB": "Maicol Rincon",
+      "fighterARecord": "32-2-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-08-29",
-      "division": "Featherweight",
-      "venue": "UD",
+      "division": "Super Bantamweight",
+      "venue": "TKO",
       "locationImage": "",
-      "title": "Featherweight bout",
+      "title": "Super Bantamweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Reina Tellez"
+        "David Picasso"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
       "id": "ramon-cardenas-leonardo-carrillo-2026-08-29",
@@ -364,27 +342,6 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Ramon Cardenas"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "david-picasso-maicol-rincon-2026-08-29",
-      "fighterA": "David Picasso",
-      "fighterB": "Maicol Rincon",
-      "fighterARecord": "32-2-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Super Bantamweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "David Picasso"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
@@ -568,7 +525,7 @@
       "fighterBImage": "",
       "date": "2026-09-12",
       "division": "Cruiserweight",
-      "venue": "T Mobile Arena, Las Vegas, Nevada, United States",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Cruiserweight bout",
       "result": "Result listed by source",
@@ -590,7 +547,7 @@
       "fighterBImage": "",
       "date": "2026-09-12",
       "division": "Light Heavyweight",
-      "venue": "T Mobile Arena, Las Vegas, Nevada, United States",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -600,6 +557,28 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "mark-magsayo-andres-cortes-2026-09-12",
+      "fighterA": "Mark Magsayo",
+      "fighterB": "Andres Cortes",
+      "fighterARecord": "29-2-0",
+      "fighterBRecord": "25-0-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-12",
+      "division": "Super Featherweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Super Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Mark Magsayo",
+        "Andres Cortes"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     }
   ]
 }

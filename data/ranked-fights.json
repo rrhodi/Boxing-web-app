@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T13:18:20.433Z",
+  "generatedAt": "2026-09-14T15:00:52.976Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "jonathan-gonzalez-abraham-perez-2026-06-14",
-      "fighterA": "Jonathan Gonzalez",
-      "fighterB": "Abraham Perez",
-      "fighterARecord": "28-4-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-06-14",
-      "division": "Light Flyweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Light Flyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jonathan Gonzalez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-flyweight"
-    },
     {
       "id": "riku-masuda-daigo-higa-2026-07-20",
       "fighterA": "Riku Masuda",
@@ -221,8 +200,8 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
-      "id": "jose-lopez-juan-carrillo-2026-08-29",
-      "fighterA": "Jose Lopez",
+      "id": "najee-lopez-juan-carrillo-2026-08-29",
+      "fighterA": "Najee Lopez",
       "fighterB": "Juan Carrillo",
       "fighterARecord": "",
       "fighterBRecord": "15-1-0",
@@ -516,11 +495,32 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
+      "id": "giovani-santillan-abass-baraou-2026-09-11",
+      "fighterA": "Giovani Santillan",
+      "fighterB": "Abass Baraou",
+      "fighterARecord": "",
+      "fighterBRecord": "17-3-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-11",
+      "division": "Welterweight",
+      "venue": "MD",
+      "locationImage": "",
+      "title": "Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Abass Baraou"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+    },
+    {
       "id": "jai-opetaia-noel-mikaelyan-2026-09-12",
       "fighterA": "Jai Opetaia",
       "fighterB": "Noel Mikaelyan",
-      "fighterARecord": "30-0-0",
-      "fighterBRecord": "28-3-0",
+      "fighterARecord": "31-0-0",
+      "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-09-12",
@@ -531,8 +531,7 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Jai Opetaia",
-        "Noel Mikaelyan"
+        "Jai Opetaia"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
@@ -541,7 +540,7 @@
       "id": "damazion-vanhouter-raphael-akpejiori-2026-09-12",
       "fighterA": "Damazion Vanhouter",
       "fighterB": "Raphael Akpejiori",
-      "fighterARecord": "12-0-0",
+      "fighterARecord": "13-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -562,8 +561,8 @@
       "id": "mark-magsayo-andres-cortes-2026-09-12",
       "fighterA": "Mark Magsayo",
       "fighterB": "Andres Cortes",
-      "fighterARecord": "29-2-0",
-      "fighterBRecord": "25-0-0",
+      "fighterARecord": "29-3-0",
+      "fighterBRecord": "26-0-0",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-09-12",

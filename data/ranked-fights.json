@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:27:10.084Z",
+  "generatedAt": "2026-09-18T12:57:44.720Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "riku-masuda-daigo-higa-2026-07-20",
-      "fighterA": "Riku Masuda",
-      "fighterB": "Daigo Higa",
-      "fighterARecord": "10-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-20",
-      "division": "Bantamweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Riku Masuda"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
     {
       "id": "mikie-tallon-orlando-pino-2026-07-25",
       "fighterA": "Mikie Tallon",

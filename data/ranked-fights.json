@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:57:44.720Z",
+  "generatedAt": "2026-09-19T12:29:39.856Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -51,27 +51,6 @@
       ],
       "sourceName": "Tapology / AS",
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
-    },
-    {
-      "id": "billy-deniz-alex-carter-2026-08-08",
-      "fighterA": "Billy Deniz",
-      "fighterB": "Alex Carter",
-      "fighterARecord": "15-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-08",
-      "division": "Cruiserweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Billy Deniz"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
       "id": "atif-oberlton-roamer-alexis-angulo-2026-08-15",
@@ -237,27 +216,6 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Reina Tellez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
-      "id": "brandon-mosqueda-edwin-palomares-2026-08-29",
-      "fighterA": "Brandon Mosqueda",
-      "fighterB": "Edwin Palomares",
-      "fighterARecord": "12-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Featherweight",
-      "venue": "Complejo Deportivo de Artes Marciales, Guadalajara, Jalisco, Mexico",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Brandon Mosqueda"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
@@ -557,6 +515,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+    },
+    {
+      "id": "jesus-ramos-meiirim-nursultanov-2026-09-19",
+      "fighterA": "Jesus Ramos",
+      "fighterB": "Meiirim Nursultanov",
+      "fighterARecord": "24-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-19",
+      "division": "Super Welterweight",
+      "venue": "N/A, San Diego, California",
+      "locationImage": "",
+      "title": "Super Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jesus Ramos"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
+    },
+    {
+      "id": "shabaz-masoud-ckari-cani-mansilla-2026-09-19",
+      "fighterA": "Shabaz Masoud",
+      "fighterB": "Ckari Cani Mansilla",
+      "fighterARecord": "15-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-19",
+      "division": "Super Bantamweight",
+      "venue": "Co-OP LIVE Arena, Manchester, Lancashire",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Shabaz Masoud"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     }
   ]
 }

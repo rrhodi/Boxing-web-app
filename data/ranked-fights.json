@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T13:02:49.307Z",
+  "generatedAt": "2026-09-21T15:06:05.458Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -40,17 +40,17 @@
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-07-25",
-      "division": "Flyweight",
+      "division": "Super Flyweight",
       "venue": "KO",
       "locationImage": "",
-      "title": "Flyweight bout",
+      "title": "Super Flyweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
         "Mikie Tallon"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/flyweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
     },
     {
       "id": "anthony-joshua-kristian-prenga-2026-07-25",
@@ -288,7 +288,7 @@
       "fighterA": "Vito Mielnicki Jr.",
       "fighterB": "Austin Williams",
       "fighterARecord": "24-1-1",
-      "fighterBRecord": "",
+      "fighterBRecord": "20-3-0",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-09-04",
@@ -299,7 +299,8 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Vito Mielnicki Jr."
+        "Vito Mielnicki Jr.",
+        "Austin Williams"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
@@ -472,6 +473,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "julio-cesar-chavez-jr-jeison-troncoso-2026-09-19",
+      "fighterA": "Julio Cesar Chavez Jr.",
+      "fighterB": "Jeison Troncoso",
+      "fighterARecord": "56-7-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-19",
+      "division": "Cruiserweight",
+      "venue": "KO",
+      "locationImage": "",
+      "title": "Cruiserweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Julio Cesar Chavez Jr."
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
       "id": "shabaz-masoud-ckari-cani-mansilla-2026-09-19",

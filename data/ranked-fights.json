@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T13:24:27.132Z",
+  "generatedAt": "2026-09-23T13:38:31.477Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -536,6 +536,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "kyonosuke-kameda-sebastian-hernandez-2026-09-23",
+      "fighterA": "Kyonosuke Kameda",
+      "fighterB": "Sebastian Hernandez",
+      "fighterARecord": "",
+      "fighterBRecord": "21-1-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-23",
+      "division": "Featherweight",
+      "venue": "Sumiyoshi Ward Center, Osaka, Osaka, Japan",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Sebastian Hernandez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     }
   ]
 }

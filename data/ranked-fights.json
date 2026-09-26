@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:47:00.297Z",
+  "generatedAt": "2026-09-26T13:05:12.233Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -137,48 +137,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
-      "id": "mauricio-lara-carlos-ornelas-2026-08-29",
-      "fighterA": "Mauricio Lara",
-      "fighterB": "Carlos Ornelas",
-      "fighterARecord": "30-3-2",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Super Featherweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Mauricio Lara"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
-    },
-    {
-      "id": "brandon-mosqueda-edwin-palomares-2026-08-29",
-      "fighterA": "Brandon Mosqueda",
-      "fighterB": "Edwin Palomares",
-      "fighterARecord": "12-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Featherweight",
-      "venue": "Complejo Deportivo de Artes Marciales, Guadalajara, Jalisco, Mexico",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Brandon Mosqueda"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
       "id": "david-picasso-maicol-rincon-2026-08-29",
       "fighterA": "David Picasso",
       "fighterB": "Maicol Rincon",
@@ -282,28 +240,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
-      "id": "vito-mielnicki-jr-austin-williams-2026-09-04",
-      "fighterA": "Vito Mielnicki Jr.",
-      "fighterB": "Austin Williams",
-      "fighterARecord": "24-1-1",
-      "fighterBRecord": "20-3-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-04",
-      "division": "Middleweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Vito Mielnicki Jr.",
-        "Austin Williams"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
     },
     {
       "id": "alan-chaves-eridson-garcia-2026-09-04",
@@ -554,6 +490,27 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Sebastian Hernandez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
+    },
+    {
+      "id": "liam-davies-nathaniel-collins-2026-09-26",
+      "fighterA": "Liam Davies",
+      "fighterB": "Nathaniel Collins",
+      "fighterARecord": "18-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-26",
+      "division": "Featherweight",
+      "venue": "BP Pulse Live, Birmingham, West Midlands, England",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Liam Davies"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"

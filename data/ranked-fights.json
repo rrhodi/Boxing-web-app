@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T13:05:12.233Z",
+  "generatedAt": "2026-09-27T13:58:03.137Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -74,27 +74,6 @@
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
     },
     {
-      "id": "atif-oberlton-roamer-alexis-angulo-2026-08-15",
-      "fighterA": "Atif Oberlton",
-      "fighterB": "Roamer Alexis Angulo",
-      "fighterARecord": "15-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-15",
-      "division": "Light Heavyweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Atif Oberlton"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
       "id": "nelson-hysa-thomas-narmo-2026-08-29",
       "fighterA": "Nelson Hysa",
       "fighterB": "Thomas Narmo",
@@ -156,69 +135,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "lenar-perez-thabiso-mchunu-2026-09-03",
-      "fighterA": "Lenar Perez",
-      "fighterB": "Thabiso Mchunu",
-      "fighterARecord": "16-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-03",
-      "division": "Cruiserweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Lenar Perez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
-    {
-      "id": "moreno-fendero-stephane-fondjo-2026-09-03",
-      "fighterA": "Moreno Fendero",
-      "fighterB": "Stephane Fondjo",
-      "fighterARecord": "15-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-03",
-      "division": "Super Middleweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Moreno Fendero"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
-    },
-    {
-      "id": "jhon-orobio-antonio-moran-2026-09-03",
-      "fighterA": "Jhon Orobio",
-      "fighterB": "Antonio Moran",
-      "fighterARecord": "18-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-03",
-      "division": "Super Lightweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jhon Orobio"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "andy-ruiz-jr-damian-knyba-2026-09-04",
@@ -321,27 +237,6 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Francois Scarboro Jr."
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
-    },
-    {
-      "id": "luis-alberto-lopez-daniel-lugo-2026-09-11",
-      "fighterA": "Luis Alberto Lopez",
-      "fighterB": "Daniel Lugo",
-      "fighterARecord": "33-4-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-11",
-      "division": "Super Featherweight",
-      "venue": "Frontwave Arena, Oceanside, California",
-      "locationImage": "",
-      "title": "Super Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Luis Alberto Lopez"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
@@ -483,7 +378,7 @@
       "fighterBImage": "",
       "date": "2026-09-23",
       "division": "Featherweight",
-      "venue": "Sumiyoshi Ward Center, Osaka, Osaka, Japan",
+      "venue": "SD",
       "locationImage": "",
       "title": "Featherweight bout",
       "result": "Result listed by source",
@@ -504,7 +399,7 @@
       "fighterBImage": "",
       "date": "2026-09-26",
       "division": "Featherweight",
-      "venue": "BP Pulse Live, Birmingham, West Midlands, England",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Featherweight bout",
       "result": "Result listed by source",
@@ -514,6 +409,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
+    },
+    {
+      "id": "ryosuke-nishida-sam-goodman-2026-09-27",
+      "fighterA": "Ryosuke Nishida",
+      "fighterB": "Sam Goodman",
+      "fighterARecord": "",
+      "fighterBRecord": "22-1-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-27",
+      "division": "Super Bantamweight",
+      "venue": "Toyota Arena, Tokyo, Japan",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Sam Goodman"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     }
   ]
 }

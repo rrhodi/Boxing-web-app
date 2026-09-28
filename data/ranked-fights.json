@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T13:58:03.137Z",
+  "generatedAt": "2026-09-28T16:45:05.416Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -14,7 +14,7 @@
       "id": "riku-masuda-daigo-higa-2026-07-20",
       "fighterA": "Riku Masuda",
       "fighterB": "Daigo Higa",
-      "fighterARecord": "10-1-0",
+      "fighterARecord": "11-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -35,7 +35,7 @@
       "id": "mikie-tallon-orlando-pino-2026-07-25",
       "fighterA": "Mikie Tallon",
       "fighterB": "Orlando Pino",
-      "fighterARecord": "13-0-0",
+      "fighterARecord": "15-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -74,27 +74,6 @@
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
     },
     {
-      "id": "nelson-hysa-thomas-narmo-2026-08-29",
-      "fighterA": "Nelson Hysa",
-      "fighterB": "Thomas Narmo",
-      "fighterARecord": "25-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Nelson Hysa"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
       "id": "moses-itauma-filip-hrgovic-2026-08-29",
       "fighterA": "Moses Itauma",
       "fighterB": "Filip Hrgovic",
@@ -116,25 +95,88 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
-      "id": "david-picasso-maicol-rincon-2026-08-29",
-      "fighterA": "David Picasso",
-      "fighterB": "Maicol Rincon",
-      "fighterARecord": "32-2-1",
+      "id": "nelson-hysa-thomas-narmo-2026-08-29",
+      "fighterA": "Nelson Hysa",
+      "fighterB": "Thomas Narmo",
+      "fighterARecord": "25-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Heavyweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Nelson Hysa"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "ramon-cardenas-leonardo-carrillo-2026-08-29",
+      "fighterA": "Ramon Cardenas",
+      "fighterB": "Leonardo Carrillo",
+      "fighterARecord": "28-2-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-08-29",
       "division": "Super Bantamweight",
-      "venue": "TKO",
+      "venue": "SD",
       "locationImage": "",
       "title": "Super Bantamweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "David Picasso"
+        "Ramon Cardenas"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "moreno-fendero-stephane-fondjo-2026-09-03",
+      "fighterA": "Moreno Fendero",
+      "fighterB": "Stephane Fondjo",
+      "fighterARecord": "16-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-03",
+      "division": "Super Middleweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Moreno Fendero"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
+      "id": "jhon-orobio-antonio-moran-2026-09-03",
+      "fighterA": "Jhon Orobio",
+      "fighterB": "Antonio Moran",
+      "fighterARecord": "19-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-03",
+      "division": "Super Lightweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jhon Orobio"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "andy-ruiz-jr-damian-knyba-2026-09-04",
@@ -221,22 +263,22 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
     },
     {
-      "id": "dominic-valle-francois-scarboro-jr-2026-09-11",
-      "fighterA": "Dominic Valle",
-      "fighterB": "Francois Scarboro Jr.",
-      "fighterARecord": "",
-      "fighterBRecord": "12-1-0",
+      "id": "luis-alberto-lopez-daniel-lugo-2026-09-11",
+      "fighterA": "Luis Alberto Lopez",
+      "fighterB": "Daniel Lugo",
+      "fighterARecord": "33-4-0",
+      "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-09-11",
       "division": "Super Featherweight",
-      "venue": "UD",
+      "venue": "Frontwave Arena, Oceanside, California",
       "locationImage": "",
       "title": "Super Featherweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Francois Scarboro Jr."
+        "Luis Alberto Lopez"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
@@ -246,7 +288,7 @@
       "fighterA": "Jai Opetaia",
       "fighterB": "Noel Mikaelyan",
       "fighterARecord": "31-0-0",
-      "fighterBRecord": "",
+      "fighterBRecord": "28-4-0",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-09-12",
@@ -257,7 +299,8 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Jai Opetaia"
+        "Jai Opetaia",
+        "Noel Mikaelyan"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
@@ -393,8 +436,8 @@
       "id": "liam-davies-nathaniel-collins-2026-09-26",
       "fighterA": "Liam Davies",
       "fighterB": "Nathaniel Collins",
-      "fighterARecord": "18-2-0",
-      "fighterBRecord": "",
+      "fighterARecord": "19-2-0",
+      "fighterBRecord": "17-2-1",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-09-26",
@@ -405,14 +448,15 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Liam Davies"
+        "Liam Davies",
+        "Nathaniel Collins"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
-      "id": "ryosuke-nishida-sam-goodman-2026-09-27",
-      "fighterA": "Ryosuke Nishida",
+      "id": "xi-tian-ling-you-sam-goodman-2026-09-27",
+      "fighterA": "Xi Tian Ling You",
       "fighterB": "Sam Goodman",
       "fighterARecord": "",
       "fighterBRecord": "22-1-0",
@@ -420,7 +464,7 @@
       "fighterBImage": "",
       "date": "2026-09-27",
       "division": "Super Bantamweight",
-      "venue": "Toyota Arena, Tokyo, Japan",
+      "venue": "UD",
       "locationImage": "",
       "title": "Super Bantamweight bout",
       "result": "Result listed by source",

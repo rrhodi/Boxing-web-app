@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:44:00.193Z",
+  "generatedAt": "2026-10-03T13:22:52.297Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -137,27 +137,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
-      "id": "moreno-fendero-stephane-fondjo-2026-09-03",
-      "fighterA": "Moreno Fendero",
-      "fighterB": "Stephane Fondjo",
-      "fighterARecord": "16-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-03",
-      "division": "Super Middleweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Moreno Fendero"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
-    },
-    {
       "id": "jhon-orobio-antonio-moran-2026-09-03",
       "fighterA": "Jhon Orobio",
       "fighterB": "Antonio Moran",
@@ -261,27 +240,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
-    },
-    {
-      "id": "luis-alberto-lopez-daniel-lugo-2026-09-11",
-      "fighterA": "Luis Alberto Lopez",
-      "fighterB": "Daniel Lugo",
-      "fighterARecord": "33-4-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-11",
-      "division": "Super Featherweight",
-      "venue": "Frontwave Arena, Oceanside, California",
-      "locationImage": "",
-      "title": "Super Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Luis Alberto Lopez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     },
     {
       "id": "jai-opetaia-noel-mikaelyan-2026-09-12",
@@ -474,6 +432,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "ben-whittaker-conor-wallace-2026-10-03",
+      "fighterA": "Ben Whittaker",
+      "fighterB": "Conor Wallace",
+      "fighterARecord": "13-0-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-03",
+      "division": "Light Heavyweight",
+      "venue": "Utilita Arena, Birmingham, West Midlands, England",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ben Whittaker"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "ibraheem-sulaimaan-sonny-hardy-2026-10-03",
+      "fighterA": "Ibraheem Sulaimaan",
+      "fighterB": "Sonny Hardy",
+      "fighterARecord": "11-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-03",
+      "division": "Super Featherweight",
+      "venue": "Utilita Arena, Birmingham, West Midlands, England",
+      "locationImage": "",
+      "title": "Super Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ibraheem Sulaimaan"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     }
   ]
 }

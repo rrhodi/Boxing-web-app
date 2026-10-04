@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:22:52.297Z",
+  "generatedAt": "2026-10-04T14:04:41.930Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -11,31 +11,10 @@
   ],
   "fights": [
     {
-      "id": "riku-masuda-daigo-higa-2026-07-20",
-      "fighterA": "Riku Masuda",
-      "fighterB": "Daigo Higa",
-      "fighterARecord": "11-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-20",
-      "division": "Bantamweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Riku Masuda"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
       "id": "mikie-tallon-orlando-pino-2026-07-25",
       "fighterA": "Mikie Tallon",
       "fighterB": "Orlando Pino",
-      "fighterARecord": "15-0-0",
+      "fighterARecord": "15-0-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -137,27 +116,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
-      "id": "jhon-orobio-antonio-moran-2026-09-03",
-      "fighterA": "Jhon Orobio",
-      "fighterB": "Antonio Moran",
-      "fighterARecord": "19-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-03",
-      "division": "Super Lightweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jhon Orobio"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
-    },
-    {
       "id": "andy-ruiz-jr-damian-knyba-2026-09-04",
       "fighterA": "Andy Ruiz Jr.",
       "fighterB": "Damian Knyba",
@@ -177,27 +135,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
-      "id": "alan-chaves-eridson-garcia-2026-09-04",
-      "fighterA": "Alan Chaves",
-      "fighterB": "Eridson Garcia",
-      "fighterARecord": "20-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-04",
-      "division": "Lightweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Alan Chaves"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "dennis-thompson-jose-casillas-2026-09-04",
@@ -437,13 +374,13 @@
       "id": "ben-whittaker-conor-wallace-2026-10-03",
       "fighterA": "Ben Whittaker",
       "fighterB": "Conor Wallace",
-      "fighterARecord": "13-0-1",
+      "fighterARecord": "14-0-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-10-03",
       "division": "Light Heavyweight",
-      "venue": "Utilita Arena, Birmingham, West Midlands, England",
+      "venue": "UD",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -458,13 +395,13 @@
       "id": "ibraheem-sulaimaan-sonny-hardy-2026-10-03",
       "fighterA": "Ibraheem Sulaimaan",
       "fighterB": "Sonny Hardy",
-      "fighterARecord": "11-0-0",
+      "fighterARecord": "12-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-10-03",
       "division": "Super Featherweight",
-      "venue": "Utilita Arena, Birmingham, West Midlands, England",
+      "venue": "UD",
       "locationImage": "",
       "title": "Super Featherweight bout",
       "result": "Result listed by source",
@@ -474,6 +411,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+    },
+    {
+      "id": "jordan-orozco-yusniel-abrahante-2026-10-03",
+      "fighterA": "Jordan Orozco",
+      "fighterB": "Yusniel Abrahante",
+      "fighterARecord": "17-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-03",
+      "division": "Bantamweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jordan Orozco"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
     }
   ]
 }

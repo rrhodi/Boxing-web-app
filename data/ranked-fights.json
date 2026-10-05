@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:04:41.930Z",
+  "generatedAt": "2026-10-05T17:08:20.393Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -326,6 +326,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
+    },
+    {
+      "id": "gully-powar-nelson-birchall-2026-09-26",
+      "fighterA": "Gully Powar",
+      "fighterB": "Nelson Birchall",
+      "fighterARecord": "",
+      "fighterBRecord": "12-0-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-09-26",
+      "division": "Super Featherweight",
+      "venue": "BP Pulse Live, Birmingham, West Midlands, England",
+      "locationImage": "",
+      "title": "Super Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Nelson Birchall"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     },
     {
       "id": "liam-davies-nathaniel-collins-2026-09-26",

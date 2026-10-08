@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:32:58.014Z",
+  "generatedAt": "2026-10-08T15:36:36.566Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -453,6 +453,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
+    },
+    {
+      "id": "dzmitry-asanau-luis-santana-2026-10-08",
+      "fighterA": "Dzmitry Asanau",
+      "fighterB": "Luis Santana",
+      "fighterARecord": "13-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-08",
+      "division": "Lightweight",
+      "venue": "Capitole de Quebec, Quebec City, Quebec",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Dzmitry Asanau"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     }
   ]
 }

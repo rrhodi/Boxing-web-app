@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:36:36.566Z",
+  "generatedAt": "2026-10-09T15:18:02.890Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -265,27 +265,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
-      "id": "shabaz-masoud-ckari-cani-mansilla-2026-09-19",
-      "fighterA": "Shabaz Masoud",
-      "fighterB": "Ckari Cani Mansilla",
-      "fighterARecord": "16-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-19",
-      "division": "Featherweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Shabaz Masoud"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
       "id": "jesus-ramos-meiirim-nursultanov-2026-09-20",
       "fighterA": "Jesus Ramos",
       "fighterB": "Meiirim Nursultanov",
@@ -474,6 +453,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "imam-khataev-padraig-mccrory-2026-10-09",
+      "fighterA": "Imam Khataev",
+      "fighterB": "Padraig McCrory",
+      "fighterARecord": "12-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-09",
+      "division": "Light Heavyweight",
+      "venue": "Capitole de Quebec, Quebec City, Quebec",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Imam Khataev"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     }
   ]
 }

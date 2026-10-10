@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T15:18:02.890Z",
+  "generatedAt": "2026-10-10T14:28:01.654Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -220,28 +220,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "mark-magsayo-andres-cortes-2026-09-12",
-      "fighterA": "Mark Magsayo",
-      "fighterB": "Andres Cortes",
-      "fighterARecord": "29-3-0",
-      "fighterBRecord": "26-0-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-12",
-      "division": "Lightweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Mark Magsayo",
-        "Andres Cortes"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "julio-cesar-chavez-jr-jeison-troncoso-2026-09-19",
@@ -474,6 +452,28 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "zaur-abdullaev-khariton-agrba-2026-10-10",
+      "fighterA": "Zaur Abdullaev",
+      "fighterB": "Khariton Agrba",
+      "fighterARecord": "21-2-0",
+      "fighterBRecord": "18-1-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-10",
+      "division": "Super Lightweight",
+      "venue": "N/A, Ekaterinburg, Russia",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Zaur Abdullaev",
+        "Khariton Agrba"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     }
   ]
 }

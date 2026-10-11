@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T14:28:01.654Z",
+  "generatedAt": "2026-10-11T14:54:38.897Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -69,27 +69,6 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Filip Hrgovic"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
-    },
-    {
-      "id": "nelson-hysa-thomas-narmo-2026-08-29",
-      "fighterA": "Nelson Hysa",
-      "fighterB": "Thomas Narmo",
-      "fighterARecord": "25-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Nelson Hysa"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
@@ -243,48 +222,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
-      "id": "jesus-ramos-meiirim-nursultanov-2026-09-20",
-      "fighterA": "Jesus Ramos",
-      "fighterB": "Meiirim Nursultanov",
-      "fighterARecord": "24-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-20",
-      "division": "Middleweight",
-      "venue": "N/A, San Diego, California",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jesus Ramos"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
-    },
-    {
-      "id": "kyonosuke-kameda-sebastian-hernandez-2026-09-23",
-      "fighterA": "Kyonosuke Kameda",
-      "fighterB": "Sebastian Hernandez",
-      "fighterARecord": "",
-      "fighterBRecord": "21-1-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-23",
-      "division": "Featherweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Sebastian Hernandez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
-    },
-    {
       "id": "gully-powar-nelson-birchall-2026-09-26",
       "fighterA": "Gully Powar",
       "fighterB": "Nelson Birchall",
@@ -421,7 +358,7 @@
       "fighterBImage": "",
       "date": "2026-10-08",
       "division": "Lightweight",
-      "venue": "Capitole de Quebec, Quebec City, Quebec",
+      "venue": "UD",
       "locationImage": "",
       "title": "Lightweight bout",
       "result": "Result listed by source",
@@ -442,7 +379,7 @@
       "fighterBImage": "",
       "date": "2026-10-09",
       "division": "Light Heavyweight",
-      "venue": "Capitole de Quebec, Quebec City, Quebec",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -463,7 +400,7 @@
       "fighterBImage": "",
       "date": "2026-10-10",
       "division": "Super Lightweight",
-      "venue": "N/A, Ekaterinburg, Russia",
+      "venue": "SD",
       "locationImage": "",
       "title": "Super Lightweight bout",
       "result": "Result listed by source",

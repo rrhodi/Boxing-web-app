@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T14:54:38.897Z",
+  "generatedAt": "2026-10-12T17:53:51.353Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -331,7 +331,7 @@
       "id": "jordan-orozco-yusniel-abrahante-2026-10-03",
       "fighterA": "Jordan Orozco",
       "fighterB": "Yusniel Abrahante",
-      "fighterARecord": "17-0-0",
+      "fighterARecord": "18-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -352,7 +352,7 @@
       "id": "dzmitry-asanau-luis-santana-2026-10-08",
       "fighterA": "Dzmitry Asanau",
       "fighterB": "Luis Santana",
-      "fighterARecord": "13-1-0",
+      "fighterARecord": "14-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -373,7 +373,7 @@
       "id": "imam-khataev-padraig-mccrory-2026-10-09",
       "fighterA": "Imam Khataev",
       "fighterB": "Padraig McCrory",
-      "fighterARecord": "12-1-0",
+      "fighterARecord": "13-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -391,10 +391,31 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
+      "id": "tristan-kalkreuth-ivan-rosado-2026-10-10",
+      "fighterA": "Tristan Kalkreuth",
+      "fighterB": "Ivan Rosado",
+      "fighterARecord": "18-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-10",
+      "division": "Cruiserweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Cruiserweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Tristan Kalkreuth"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
+    },
+    {
       "id": "zaur-abdullaev-khariton-agrba-2026-10-10",
       "fighterA": "Zaur Abdullaev",
       "fighterB": "Khariton Agrba",
-      "fighterARecord": "21-2-0",
+      "fighterARecord": "21-3-0",
       "fighterBRecord": "18-1-0",
       "fighterAImage": "",
       "fighterBImage": "",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:14:59.866Z",
+  "generatedAt": "2026-10-17T12:11:07.770Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "mikie-tallon-orlando-pino-2026-07-25",
-      "fighterA": "Mikie Tallon",
-      "fighterB": "Orlando Pino",
-      "fighterARecord": "15-0-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-07-25",
-      "division": "Super Flyweight",
-      "venue": "KO",
-      "locationImage": "",
-      "title": "Super Flyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Mikie Tallon"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
-    },
     {
       "id": "anthony-joshua-kristian-prenga-2026-07-25",
       "fighterAImage": "",
@@ -51,27 +30,6 @@
       ],
       "sourceName": "Tapology / AS",
       "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
-    },
-    {
-      "id": "moses-itauma-filip-hrgovic-2026-08-29",
-      "fighterA": "Moses Itauma",
-      "fighterB": "Filip Hrgovic",
-      "fighterARecord": "",
-      "fighterBRecord": "23-2-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Filip Hrgovic"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
     },
     {
       "id": "ramon-cardenas-leonardo-carrillo-2026-08-29",
@@ -135,27 +93,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "giovani-santillan-abass-baraou-2026-09-11",
-      "fighterA": "Giovani Santillan",
-      "fighterB": "Abass Baraou",
-      "fighterARecord": "",
-      "fighterBRecord": "18-3-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-11",
-      "division": "Super Welterweight",
-      "venue": "MD",
-      "locationImage": "",
-      "title": "Super Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Abass Baraou"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
     },
     {
       "id": "jai-opetaia-noel-mikaelyan-2026-09-12",
@@ -432,6 +369,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
+    },
+    {
+      "id": "jermall-charlo-koen-mazoudier-2026-10-17",
+      "fighterA": "Jermall Charlo",
+      "fighterB": "Koen Mazoudier",
+      "fighterARecord": "34-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-17",
+      "division": "Middleweight",
+      "venue": "Dignity Health Sports Park, Carson, California",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jermall Charlo"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
     }
   ]
 }

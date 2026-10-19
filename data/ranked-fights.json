@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:36:33.596Z",
+  "generatedAt": "2026-10-19T15:35:22.311Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -51,6 +51,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "tony-curtis-imad-naseeb-2026-08-29",
+      "fighterA": "Tony Curtis",
+      "fighterB": "Imad Naseeb",
+      "fighterARecord": "14-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-08-29",
+      "division": "Super Flyweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Super Flyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Tony Curtis"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
     },
     {
       "id": "dennis-thompson-jose-casillas-2026-09-04",
@@ -328,25 +349,25 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
-      "id": "marco-romero-braulio-ferreira-2026-10-17",
-      "fighterA": "Marco Romero",
-      "fighterB": "Braulio Ferreira",
-      "fighterARecord": "15-0-0",
-      "fighterBRecord": "",
+      "id": "joshua-anton-yan-marcos-2026-10-16",
+      "fighterA": "Joshua Anton",
+      "fighterB": "Yan Marcos",
+      "fighterARecord": "",
+      "fighterBRecord": "15-0-0",
       "fighterAImage": "",
       "fighterBImage": "",
-      "date": "2026-10-17",
-      "division": "Middleweight",
-      "venue": "The Chelsea at the Cosmopolitan, Las Vegas, Nevada",
+      "date": "2026-10-16",
+      "division": "Super Welterweight",
+      "venue": "Rawhide Event Center, Phoenix, Arizona",
       "locationImage": "",
-      "title": "Middleweight bout",
+      "title": "Super Welterweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Marco Romero"
+        "Yan Marcos"
       ],
       "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
     },
     {
       "id": "jermall-charlo-koen-mazoudier-2026-10-17",
@@ -368,6 +389,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "nelson-birchall-levi-giles-2026-10-17",
+      "fighterA": "Nelson Birchall",
+      "fighterB": "Levi Giles",
+      "fighterARecord": "12-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-17",
+      "division": "Lightweight",
+      "venue": "O2 Arena, Greenwich, London",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Nelson Birchall"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "tony-curtis-kerim-agius-2026-10-17",
+      "fighterA": "Tony Curtis",
+      "fighterB": "Kerim Agius",
+      "fighterARecord": "14-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-17",
+      "division": "Super Flyweight",
+      "venue": "O2 Arena, Greenwich, London",
+      "locationImage": "",
+      "title": "Super Flyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Tony Curtis"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
     }
   ]
 }

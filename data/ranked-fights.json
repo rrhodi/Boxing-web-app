@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:47:34.497Z",
+  "generatedAt": "2026-10-23T13:26:02.832Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -159,29 +159,8 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
-      "id": "gully-powar-nelson-birchall-2026-09-26",
-      "fighterA": "Gully Powar",
-      "fighterB": "Nelson Birchall",
-      "fighterARecord": "",
-      "fighterBRecord": "12-0-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-26",
-      "division": "Super Featherweight",
-      "venue": "BP Pulse Live, Birmingham, West Midlands, England",
-      "locationImage": "",
-      "title": "Super Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Nelson Birchall"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
-    },
-    {
-      "id": "xi-tian-ling-you-sam-goodman-2026-09-27",
-      "fighterA": "Xi Tian Ling You",
+      "id": "ryosuke-nishida-sam-goodman-2026-09-27",
+      "fighterA": "Ryosuke Nishida",
       "fighterB": "Sam Goodman",
       "fighterARecord": "",
       "fighterBRecord": "22-1-0",
@@ -370,6 +349,90 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
     },
     {
+      "id": "trini-ochoa-alex-martin-2026-10-16",
+      "fighterA": "Trini Ochoa",
+      "fighterB": "Alex Martin",
+      "fighterARecord": "22-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-16",
+      "division": "Welterweight",
+      "venue": "SD",
+      "locationImage": "",
+      "title": "Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Trini Ochoa"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+    },
+    {
+      "id": "justin-pauldo-rene-tellez-2026-10-16",
+      "fighterA": "Justin Pauldo",
+      "fighterB": "Rene Tellez",
+      "fighterARecord": "20-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-16",
+      "division": "Lightweight",
+      "venue": "SD",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Justin Pauldo"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "bakhodir-jalolov-solomon-dacres-2026-10-17",
+      "fighterA": "Bakhodir Jalolov",
+      "fighterB": "Solomon Dacres",
+      "fighterARecord": "32-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-17",
+      "division": "Heavyweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Bakhodir Jalolov"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/heavyweight"
+    },
+    {
+      "id": "marco-romero-braulio-ferreira-2026-10-17",
+      "fighterA": "Marco Romero",
+      "fighterB": "Braulio Ferreira",
+      "fighterARecord": "15-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-17",
+      "division": "Middleweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Marco Romero"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
       "id": "jermall-charlo-koen-mazoudier-2026-10-17",
       "fighterA": "Jermall Charlo",
       "fighterB": "Koen Mazoudier",
@@ -400,7 +463,7 @@
       "fighterBImage": "",
       "date": "2026-10-17",
       "division": "Lightweight",
-      "venue": "O2 Arena, Greenwich, London",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Lightweight bout",
       "result": "Result listed by source",
@@ -421,7 +484,7 @@
       "fighterBImage": "",
       "date": "2026-10-17",
       "division": "Super Flyweight",
-      "venue": "O2 Arena, Greenwich, London",
+      "venue": "KO",
       "locationImage": "",
       "title": "Super Flyweight bout",
       "result": "Result listed by source",

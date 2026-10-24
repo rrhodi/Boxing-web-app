@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:26:02.832Z",
+  "generatedAt": "2026-10-24T12:40:01.621Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -243,27 +243,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
     },
     {
-      "id": "dzmitry-asanau-luis-santana-2026-10-08",
-      "fighterA": "Dzmitry Asanau",
-      "fighterB": "Luis Santana",
-      "fighterARecord": "14-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-08",
-      "division": "Lightweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Dzmitry Asanau"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
-    },
-    {
       "id": "imam-khataev-padraig-mccrory-2026-10-09",
       "fighterA": "Imam Khataev",
       "fighterB": "Padraig McCrory",
@@ -494,6 +473,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
+    },
+    {
+      "id": "joe-hayden-will-harrison-2026-10-24",
+      "fighterA": "Joe Hayden",
+      "fighterB": "Will Harrison",
+      "fighterARecord": "24-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-24",
+      "division": "Welterweight",
+      "venue": "Sheffield Arena, Sheffield, Yorkshire, England",
+      "locationImage": "",
+      "title": "Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Joe Hayden"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+    },
+    {
+      "id": "frank-martin-tarik-zaina-2026-10-24",
+      "fighterA": "Frank Martin",
+      "fighterB": "Tarik Zaina",
+      "fighterARecord": "19-1-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-24",
+      "division": "Super Lightweight",
+      "venue": "Frost Bank Center, San Antonio, Texas",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Frank Martin"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     }
   ]
 }

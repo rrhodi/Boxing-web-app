@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:40:01.621Z",
+  "generatedAt": "2026-10-25T13:10:59.688Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "anthony-joshua-kristian-prenga-2026-07-25",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "fighterA": "Anthony Joshua",
-      "fighterB": "Kristian Prenga",
-      "fighterARecord": "29-4-0",
-      "fighterBRecord": "20-1-0",
-      "date": "2026-07-25",
-      "division": "Heavyweight",
-      "venue": "Saudi Arabia",
-      "locationImage": "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6?auto=format&fit=crop&w=900&q=80",
-      "title": "Heavyweight bout",
-      "result": "",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Anthony Joshua"
-      ],
-      "sourceName": "Tapology / AS",
-      "sourceUrl": "https://www.tapology.com/fightcenter/fighters/204900-kristian-prenga"
-    },
     {
       "id": "ramon-cardenas-leonardo-carrillo-2026-08-29",
       "fighterA": "Ramon Cardenas",
@@ -505,7 +484,7 @@
       "fighterBImage": "",
       "date": "2026-10-24",
       "division": "Super Lightweight",
-      "venue": "Frost Bank Center, San Antonio, Texas",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Super Lightweight bout",
       "result": "Result listed by source",
@@ -515,6 +494,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
+    },
+    {
+      "id": "albert-gonzalez-edward-vazquez-2026-10-25",
+      "fighterA": "Albert Gonzalez",
+      "fighterB": "Edward Vazquez",
+      "fighterARecord": "",
+      "fighterBRecord": "20-3-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-25",
+      "division": "Featherweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Edward Vazquez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     }
   ]
 }

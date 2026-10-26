@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:10:59.688Z",
+  "generatedAt": "2026-10-26T15:10:57.538Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -35,7 +35,7 @@
       "id": "tony-curtis-imad-naseeb-2026-08-29",
       "fighterA": "Tony Curtis",
       "fighterB": "Imad Naseeb",
-      "fighterARecord": "14-1-0",
+      "fighterARecord": "15-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -436,7 +436,7 @@
       "id": "tony-curtis-kerim-agius-2026-10-17",
       "fighterA": "Tony Curtis",
       "fighterB": "Kerim Agius",
-      "fighterARecord": "14-1-0",
+      "fighterARecord": "15-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -496,10 +496,31 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
+      "id": "giorgio-visioli-maxi-hughes-2026-10-24",
+      "fighterA": "Giorgio Visioli",
+      "fighterB": "Maxi Hughes",
+      "fighterARecord": "11-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-24",
+      "division": "Lightweight",
+      "venue": "MD",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Giorgio Visioli"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
       "id": "albert-gonzalez-edward-vazquez-2026-10-25",
       "fighterA": "Albert Gonzalez",
       "fighterB": "Edward Vazquez",
-      "fighterARecord": "",
+      "fighterARecord": "19-0-0",
       "fighterBRecord": "20-3-0",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -511,6 +532,7 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
+        "Albert Gonzalez",
         "Edward Vazquez"
       ],
       "sourceName": "Boxing Metrics",

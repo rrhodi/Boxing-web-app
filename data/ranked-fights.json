@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:05:41.251Z",
+  "generatedAt": "2026-10-29T15:13:11.246Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "ramon-cardenas-leonardo-carrillo-2026-08-29",
-      "fighterA": "Ramon Cardenas",
-      "fighterB": "Leonardo Carrillo",
-      "fighterARecord": "28-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Super Bantamweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ramon Cardenas"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
     {
       "id": "tony-curtis-imad-naseeb-2026-08-29",
       "fighterA": "Tony Curtis",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T15:02:29.429Z",
+  "generatedAt": "2026-10-31T14:31:18.653Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -30,27 +30,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
-    },
-    {
-      "id": "dennis-thompson-jose-casillas-2026-09-04",
-      "fighterA": "Dennis Thompson",
-      "fighterB": "Jose Casillas",
-      "fighterARecord": "12-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-04",
-      "division": "Super Bantamweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Bantamweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Dennis Thompson"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     },
     {
       "id": "jai-opetaia-noel-mikaelyan-2026-09-12",
@@ -157,27 +136,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "ibraheem-sulaimaan-sonny-hardy-2026-10-03",
-      "fighterA": "Ibraheem Sulaimaan",
-      "fighterB": "Sonny Hardy",
-      "fighterARecord": "12-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-03",
-      "division": "Super Featherweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ibraheem Sulaimaan"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
     },
     {
       "id": "jordan-orozco-yusniel-abrahante-2026-10-03",
@@ -516,6 +474,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
+    },
+    {
+      "id": "bek-nurmaganbet-marcos-vazquez-2026-10-31",
+      "fighterA": "Bek Nurmaganbet",
+      "fighterB": "Marcos Vazquez",
+      "fighterARecord": "16-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-31",
+      "division": "Super Middleweight",
+      "venue": "Kingdom Arena, Riyadh, Saudi Arabia",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Bek Nurmaganbet"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
+      "id": "david-picasso-carl-martin-2026-10-31",
+      "fighterA": "David Picasso",
+      "fighterB": "Carl Martin",
+      "fighterARecord": "33-2-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-10-31",
+      "division": "Super Bantamweight",
+      "venue": "Kingdom Arena, Riyadh, Saudi Arabia",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "David Picasso"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     }
   ]
 }

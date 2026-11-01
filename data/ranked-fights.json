@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:31:18.653Z",
+  "generatedAt": "2026-11-01T15:07:24.934Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -400,7 +400,7 @@
       "fighterBImage": "",
       "date": "2026-10-24",
       "division": "Welterweight",
-      "venue": "Sheffield Arena, Sheffield, Yorkshire, England",
+      "venue": "UD",
       "locationImage": "",
       "title": "Welterweight bout",
       "result": "Result listed by source",
@@ -485,7 +485,7 @@
       "fighterBImage": "",
       "date": "2026-10-31",
       "division": "Super Middleweight",
-      "venue": "Kingdom Arena, Riyadh, Saudi Arabia",
+      "venue": "KO",
       "locationImage": "",
       "title": "Super Middleweight bout",
       "result": "Result listed by source",
@@ -506,7 +506,7 @@
       "fighterBImage": "",
       "date": "2026-10-31",
       "division": "Super Bantamweight",
-      "venue": "Kingdom Arena, Riyadh, Saudi Arabia",
+      "venue": "SD",
       "locationImage": "",
       "title": "Super Bantamweight bout",
       "result": "Result listed by source",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:07:24.934Z",
+  "generatedAt": "2026-11-02T18:20:57.471Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -394,7 +394,7 @@
       "id": "joe-hayden-will-harrison-2026-10-24",
       "fighterA": "Joe Hayden",
       "fighterB": "Will Harrison",
-      "fighterARecord": "24-0-0",
+      "fighterARecord": "25-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -436,7 +436,7 @@
       "id": "giorgio-visioli-maxi-hughes-2026-10-24",
       "fighterA": "Giorgio Visioli",
       "fighterB": "Maxi Hughes",
-      "fighterARecord": "11-0-0",
+      "fighterARecord": "12-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -458,7 +458,7 @@
       "fighterA": "Albert Gonzalez",
       "fighterB": "Edward Vazquez",
       "fighterARecord": "19-0-0",
-      "fighterBRecord": "20-4-0",
+      "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-10-25",
@@ -469,8 +469,7 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Albert Gonzalez",
-        "Edward Vazquez"
+        "Albert Gonzalez"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
@@ -479,7 +478,7 @@
       "id": "bek-nurmaganbet-marcos-vazquez-2026-10-31",
       "fighterA": "Bek Nurmaganbet",
       "fighterB": "Marcos Vazquez",
-      "fighterARecord": "16-0-0",
+      "fighterARecord": "17-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -500,7 +499,7 @@
       "id": "david-picasso-carl-martin-2026-10-31",
       "fighterA": "David Picasso",
       "fighterB": "Carl Martin",
-      "fighterARecord": "33-2-1",
+      "fighterARecord": "33-3-1",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:27:48.796Z",
+  "generatedAt": "2026-11-06T15:55:17.403Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -515,6 +515,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "paulo-aokuso-mobin-khahrazeh-2026-11-06",
+      "fighterA": "Paulo Aokuso",
+      "fighterB": "Mobin Khahrazeh",
+      "fighterARecord": "12-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-06",
+      "division": "Light Heavyweight",
+      "venue": "TikTok Entertainment Centre, Sydney, New South Wales, Australia",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Paulo Aokuso"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     }
   ]
 }

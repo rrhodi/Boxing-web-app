@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T15:55:17.403Z",
+  "generatedAt": "2026-11-07T14:53:58.685Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -52,27 +52,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
-    {
-      "id": "damazion-vanhouter-raphael-akpejiori-2026-09-12",
-      "fighterA": "Damazion Vanhouter",
-      "fighterB": "Raphael Akpejiori",
-      "fighterARecord": "13-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-12",
-      "division": "Light Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Damazion Vanhouter"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "julio-cesar-chavez-jr-jeison-troncoso-2026-09-19",
@@ -533,6 +512,132 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Paulo Aokuso"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "chris-billam-smith-cheavon-clarke-2026-11-07",
+      "fighterA": "Chris Billam-Smith",
+      "fighterB": "Cheavon Clarke",
+      "fighterARecord": "22-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Cruiserweight",
+      "venue": "Copper Box Arena, London, England",
+      "locationImage": "",
+      "title": "Cruiserweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Chris Billam-Smith"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
+    },
+    {
+      "id": "damazion-vanhouter-ivan-2026-11-07",
+      "fighterA": "Damazion Vanhouter",
+      "fighterB": "Ivan",
+      "fighterARecord": "13-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "Bal&#xE1;&#x17E;",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Damazion Vanhouter"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "joshua-buatsi-willy-hutchinson-2026-11-07",
+      "fighterA": "Joshua Buatsi",
+      "fighterB": "Willy Hutchinson",
+      "fighterARecord": "22-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "AO Arena, Manchester, Lancashire",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Joshua Buatsi"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "zach-parker-umar-dzambekov-2026-11-07",
+      "fighterA": "Zach Parker",
+      "fighterB": "Umar Dzambekov",
+      "fighterARecord": "26-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "Copper Box Arena, London, England",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Zach Parker"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "atif-oberlton-deon-nicholson-2026-11-07",
+      "fighterA": "Atif Oberlton",
+      "fighterB": "Deon Nicholson",
+      "fighterARecord": "17-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "Kiva Auditorium, Albuquerque, New Mexico",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Atif Oberlton"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "billy-deniz-joe-2026-11-07",
+      "fighterA": "Billy Deniz",
+      "fighterB": "Joe",
+      "fighterARecord": "16-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "O&#x27;Sullivan",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Billy Deniz"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"

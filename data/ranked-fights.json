@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:53:58.685Z",
+  "generatedAt": "2026-11-08T15:11:11.771Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,49 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "tony-curtis-imad-naseeb-2026-08-29",
-      "fighterA": "Tony Curtis",
-      "fighterB": "Imad Naseeb",
-      "fighterARecord": "15-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-08-29",
-      "division": "Super Flyweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Super Flyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Tony Curtis"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
-    },
-    {
-      "id": "jai-opetaia-noel-mikaelyan-2026-09-12",
-      "fighterA": "Jai Opetaia",
-      "fighterB": "Noel Mikaelyan",
-      "fighterARecord": "31-0-0",
-      "fighterBRecord": "28-4-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-12",
-      "division": "Cruiserweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jai Opetaia",
-        "Noel Mikaelyan"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
     {
       "id": "julio-cesar-chavez-jr-jeison-troncoso-2026-09-19",
       "fighterA": "Julio Cesar Chavez Jr.",
@@ -94,27 +51,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "ben-whittaker-conor-wallace-2026-10-03",
-      "fighterA": "Ben Whittaker",
-      "fighterB": "Conor Wallace",
-      "fighterARecord": "14-0-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-03",
-      "division": "Light Heavyweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ben Whittaker"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "jordan-orozco-yusniel-abrahante-2026-10-03",
@@ -178,28 +114,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
-    {
-      "id": "zaur-abdullaev-khariton-agrba-2026-10-10",
-      "fighterA": "Zaur Abdullaev",
-      "fighterB": "Khariton Agrba",
-      "fighterARecord": "21-3-0",
-      "fighterBRecord": "19-1-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-10",
-      "division": "Super Lightweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Zaur Abdullaev",
-        "Khariton Agrba"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "joshua-anton-yan-marcos-2026-10-16",
@@ -505,7 +419,7 @@
       "fighterBImage": "",
       "date": "2026-11-06",
       "division": "Light Heavyweight",
-      "venue": "TikTok Entertainment Centre, Sydney, New South Wales, Australia",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -526,7 +440,7 @@
       "fighterBImage": "",
       "date": "2026-11-07",
       "division": "Cruiserweight",
-      "venue": "Copper Box Arena, London, England",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Cruiserweight bout",
       "result": "Result listed by source",
@@ -589,7 +503,7 @@
       "fighterBImage": "",
       "date": "2026-11-07",
       "division": "Light Heavyweight",
-      "venue": "Copper Box Arena, London, England",
+      "venue": "KO",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -610,7 +524,7 @@
       "fighterBImage": "",
       "date": "2026-11-07",
       "division": "Light Heavyweight",
-      "venue": "Kiva Auditorium, Albuquerque, New Mexico",
+      "venue": "SD",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
@@ -641,6 +555,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "masood-abdullah-adan-palma-2026-11-07",
+      "fighterA": "Masood Abdullah",
+      "fighterB": "Adan Palma",
+      "fighterARecord": "13-1-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Featherweight",
+      "venue": "UD",
+      "locationImage": "",
+      "title": "Featherweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Masood Abdullah"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:11:11.771Z",
+  "generatedAt": "2026-11-09T18:48:13.063Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -413,7 +413,7 @@
       "id": "paulo-aokuso-mobin-khahrazeh-2026-11-06",
       "fighterA": "Paulo Aokuso",
       "fighterB": "Mobin Khahrazeh",
-      "fighterARecord": "12-0-0",
+      "fighterARecord": "13-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -434,7 +434,7 @@
       "id": "chris-billam-smith-cheavon-clarke-2026-11-07",
       "fighterA": "Chris Billam-Smith",
       "fighterB": "Cheavon Clarke",
-      "fighterARecord": "22-2-0",
+      "fighterARecord": "22-3-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -455,7 +455,7 @@
       "id": "damazion-vanhouter-ivan-2026-11-07",
       "fighterA": "Damazion Vanhouter",
       "fighterB": "Ivan",
-      "fighterARecord": "13-0-0",
+      "fighterARecord": "14-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -494,22 +494,22 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
-      "id": "zach-parker-umar-dzambekov-2026-11-07",
-      "fighterA": "Zach Parker",
-      "fighterB": "Umar Dzambekov",
-      "fighterARecord": "26-2-0",
+      "id": "bradley-rea-ezra-taylor-2026-11-07",
+      "fighterA": "Bradley Rea",
+      "fighterB": "Ezra Taylor",
+      "fighterARecord": "23-2-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-11-07",
       "division": "Light Heavyweight",
-      "venue": "KO",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Light Heavyweight bout",
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Zach Parker"
+        "Bradley Rea"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
@@ -518,7 +518,7 @@
       "id": "atif-oberlton-deon-nicholson-2026-11-07",
       "fighterA": "Atif Oberlton",
       "fighterB": "Deon Nicholson",
-      "fighterARecord": "17-0-0",
+      "fighterARecord": "18-0-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -576,6 +576,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
+    },
+    {
+      "id": "jack-turner-andres-gregorio-2026-11-07",
+      "fighterA": "Jack Turner",
+      "fighterB": "Andres Gregorio",
+      "fighterARecord": "14-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Super Flyweight",
+      "venue": "AO Arena, Manchester, Lancashire",
+      "locationImage": "",
+      "title": "Super Flyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jack Turner"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
     }
   ]
 }

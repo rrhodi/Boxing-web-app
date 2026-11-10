@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T18:48:13.063Z",
+  "generatedAt": "2026-11-10T16:24:36.425Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -156,27 +156,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
-    },
-    {
-      "id": "justin-pauldo-rene-tellez-2026-10-16",
-      "fighterA": "Justin Pauldo",
-      "fighterB": "Rene Tellez",
-      "fighterARecord": "21-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-16",
-      "division": "Lightweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Justin Pauldo"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "bakhodir-jalolov-solomon-dacres-2026-10-17",
@@ -431,11 +410,32 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
+      "id": "ahmad-reda-jake-wyllie-2026-11-06",
+      "fighterA": "Ahmad Reda",
+      "fighterB": "Jake Wyllie",
+      "fighterARecord": "10-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-06",
+      "division": "Lightweight",
+      "venue": "MD",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Ahmad Reda"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
       "id": "chris-billam-smith-cheavon-clarke-2026-11-07",
       "fighterA": "Chris Billam-Smith",
       "fighterB": "Cheavon Clarke",
       "fighterARecord": "22-3-0",
-      "fighterBRecord": "",
+      "fighterBRecord": "13-2-0",
       "fighterAImage": "",
       "fighterBImage": "",
       "date": "2026-11-07",
@@ -446,10 +446,32 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
-        "Chris Billam-Smith"
+        "Chris Billam-Smith",
+        "Cheavon Clarke"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
+    },
+    {
+      "id": "billy-deniz-joe-2026-11-07",
+      "fighterA": "Billy Deniz",
+      "fighterB": "Joe",
+      "fighterARecord": "16-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "O&#x27;Sullivan",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Billy Deniz"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "damazion-vanhouter-ivan-2026-11-07",
@@ -489,6 +511,27 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Joshua Buatsi"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "zach-parker-umar-dzambekov-2026-11-07",
+      "fighterA": "Zach Parker",
+      "fighterB": "Umar Dzambekov",
+      "fighterARecord": "",
+      "fighterBRecord": "15-1-0",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "KO",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Umar Dzambekov"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
@@ -536,31 +579,10 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
-      "id": "billy-deniz-joe-2026-11-07",
-      "fighterA": "Billy Deniz",
-      "fighterB": "Joe",
-      "fighterARecord": "16-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-11-07",
-      "division": "Light Heavyweight",
-      "venue": "O&#x27;Sullivan",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Billy Deniz"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
       "id": "masood-abdullah-adan-palma-2026-11-07",
       "fighterA": "Masood Abdullah",
       "fighterB": "Adan Palma",
-      "fighterARecord": "13-1-0",
+      "fighterARecord": "14-1-0",
       "fighterBRecord": "",
       "fighterAImage": "",
       "fighterBImage": "",

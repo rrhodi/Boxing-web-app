@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:09:46.659Z",
+  "generatedAt": "2026-11-12T16:47:34.321Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -72,27 +72,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
-    },
-    {
-      "id": "imam-khataev-padraig-mccrory-2026-10-09",
-      "fighterA": "Imam Khataev",
-      "fighterB": "Padraig McCrory",
-      "fighterARecord": "13-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-09",
-      "division": "Light Heavyweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Imam Khataev"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
       "id": "tristan-kalkreuth-ivan-rosado-2026-10-10",
@@ -619,6 +598,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
+    },
+    {
+      "id": "jhon-orobio-hendri-cedeno-2026-11-12",
+      "fighterA": "Jhon Orobio",
+      "fighterB": "Hendri Cedeno",
+      "fighterARecord": "19-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-12",
+      "division": "Super Lightweight",
+      "venue": "Montreal Casino, Montreal, Quebec, Canada",
+      "locationImage": "",
+      "title": "Super Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jhon Orobio"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     }
   ]
 }

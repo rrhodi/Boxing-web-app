@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T16:23:05.639Z",
+  "generatedAt": "2026-11-14T15:04:06.530Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -10,27 +10,6 @@
     "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
   ],
   "fights": [
-    {
-      "id": "julio-cesar-chavez-jr-jeison-troncoso-2026-09-19",
-      "fighterA": "Julio Cesar Chavez Jr.",
-      "fighterB": "Jeison Troncoso",
-      "fighterARecord": "56-7-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-09-19",
-      "division": "Cruiserweight",
-      "venue": "KO",
-      "locationImage": "",
-      "title": "Cruiserweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Julio Cesar Chavez Jr."
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
-    },
     {
       "id": "ryosuke-nishida-sam-goodman-2026-09-27",
       "fighterA": "Ryosuke Nishida",
@@ -179,27 +158,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
     },
     {
-      "id": "jermall-charlo-koen-mazoudier-2026-10-17",
-      "fighterA": "Jermall Charlo",
-      "fighterB": "Koen Mazoudier",
-      "fighterARecord": "34-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-17",
-      "division": "Middleweight",
-      "venue": "Dignity Health Sports Park, Carson, California",
-      "locationImage": "",
-      "title": "Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Jermall Charlo"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
-    },
-    {
       "id": "nelson-birchall-levi-giles-2026-10-17",
       "fighterA": "Nelson Birchall",
       "fighterB": "Levi Giles",
@@ -261,27 +219,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
-    },
-    {
-      "id": "frank-martin-tarik-zaina-2026-10-24",
-      "fighterA": "Frank Martin",
-      "fighterB": "Tarik Zaina",
-      "fighterARecord": "20-1-1",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-24",
-      "division": "Super Lightweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Super Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Frank Martin"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-lightweight"
     },
     {
       "id": "giorgio-visioli-maxi-hughes-2026-10-24",
@@ -640,6 +577,111 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-featherweight"
+    },
+    {
+      "id": "viddal-riley-seydi-coupe-2026-11-14",
+      "fighterA": "Viddal Riley",
+      "fighterB": "Seydi Coupe",
+      "fighterARecord": "14-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-14",
+      "division": "Cruiserweight",
+      "venue": "OVO Wembley Arena, Wembley, London",
+      "locationImage": "",
+      "title": "Cruiserweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Viddal Riley"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
+    },
+    {
+      "id": "carlos-adames-gerome-warburton-2026-11-14",
+      "fighterA": "Carlos Adames",
+      "fighterB": "Gerome Warburton",
+      "fighterARecord": "25-1-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-14",
+      "division": "Super Middleweight",
+      "venue": "The Venue, Riyadh, Saudi Arabia",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Carlos Adames"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
+      "id": "diego-pacheco-darius-fulghum-2026-11-14",
+      "fighterA": "Diego Pacheco",
+      "fighterB": "Darius Fulghum",
+      "fighterARecord": "26-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-14",
+      "division": "Super Middleweight",
+      "venue": "Dignity Health Sports Park, Los Angeles, California, United States",
+      "locationImage": "",
+      "title": "Super Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Diego Pacheco"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
+    },
+    {
+      "id": "zelfa-barrett-gavin-gwynne-2026-11-14",
+      "fighterA": "Zelfa Barrett",
+      "fighterB": "Gavin Gwynne",
+      "fighterARecord": "35-3-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-14",
+      "division": "Lightweight",
+      "venue": "OVO Wembley Arena, Wembley, London",
+      "locationImage": "",
+      "title": "Lightweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Zelfa Barrett"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
+    },
+    {
+      "id": "jason-moloney-jose-andres-teran-2026-11-14",
+      "fighterA": "Jason Moloney",
+      "fighterB": "Jose Andres Teran",
+      "fighterARecord": "29-4-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-14",
+      "division": "Bantamweight",
+      "venue": "The Venue, Riyadh, Saudi Arabia",
+      "locationImage": "",
+      "title": "Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Jason Moloney"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
     }
   ]
 }

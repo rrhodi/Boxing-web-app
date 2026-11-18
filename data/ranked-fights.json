@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:37:00.418Z",
+  "generatedAt": "2026-11-18T17:15:03.329Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -306,27 +306,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
-      "id": "joshua-buatsi-willy-hutchinson-2026-11-07",
-      "fighterA": "Joshua Buatsi",
-      "fighterB": "Willy Hutchinson",
-      "fighterARecord": "22-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-11-07",
-      "division": "Light Heavyweight",
-      "venue": "AO Arena, Manchester, Lancashire",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Joshua Buatsi"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
       "id": "zach-parker-umar-dzambekov-2026-11-07",
       "fighterA": "Zach Parker",
       "fighterB": "Umar Dzambekov",
@@ -385,6 +364,27 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Atif Oberlton"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
+    },
+    {
+      "id": "joshua-buatsi-willy-hutchinson-2026-11-07",
+      "fighterA": "Joshua Buatsi",
+      "fighterB": "Willy Hutchinson",
+      "fighterARecord": "22-2-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-07",
+      "division": "Light Heavyweight",
+      "venue": "AO Arena, Manchester, Lancashire",
+      "locationImage": "",
+      "title": "Light Heavyweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Joshua Buatsi"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"

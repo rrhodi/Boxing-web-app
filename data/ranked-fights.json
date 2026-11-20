@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:22:13.816Z",
+  "generatedAt": "2026-11-20T16:57:24.573Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -93,27 +93,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
-    },
-    {
-      "id": "trini-ochoa-alex-martin-2026-10-16",
-      "fighterA": "Trini Ochoa",
-      "fighterB": "Alex Martin",
-      "fighterARecord": "23-1-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-16",
-      "division": "Welterweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Trini Ochoa"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
     },
     {
       "id": "tony-curtis-kerim-agius-2026-10-17",
@@ -640,6 +619,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/bantamweight"
+    },
+    {
+      "id": "amari-jones-deaundre-pettus-2026-11-20",
+      "fighterA": "Amari Jones",
+      "fighterB": "DeAundre Pettus",
+      "fighterARecord": "17-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-20",
+      "division": "Middleweight",
+      "venue": "Fantasy Springs Resort & Casino, Indio, California",
+      "locationImage": "",
+      "title": "Middleweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Amari Jones"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
     }
   ]
 }

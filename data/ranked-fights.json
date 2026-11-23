@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:16:15.379Z",
+  "generatedAt": "2026-11-23T20:13:12.364Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -74,27 +74,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
-      "id": "joshua-anton-yan-marcos-2026-10-16",
-      "fighterA": "Joshua Anton",
-      "fighterB": "Yan Marcos",
-      "fighterARecord": "",
-      "fighterBRecord": "15-0-0",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-16",
-      "division": "Super Welterweight",
-      "venue": "Rawhide Event Center, Phoenix, Arizona",
-      "locationImage": "",
-      "title": "Super Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Yan Marcos"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-welterweight"
-    },
-    {
       "id": "tony-curtis-kerim-agius-2026-10-17",
       "fighterA": "Tony Curtis",
       "fighterB": "Kerim Agius",
@@ -114,27 +93,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
-    },
-    {
-      "id": "joe-hayden-will-harrison-2026-10-24",
-      "fighterA": "Joe Hayden",
-      "fighterB": "Will Harrison",
-      "fighterARecord": "25-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-24",
-      "division": "Welterweight",
-      "venue": "UD",
-      "locationImage": "",
-      "title": "Welterweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Joe Hayden"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
     },
     {
       "id": "albert-gonzalez-edward-vazquez-2026-10-25",
@@ -158,27 +116,6 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
-      "id": "bek-nurmaganbet-marcos-vazquez-2026-10-31",
-      "fighterA": "Bek Nurmaganbet",
-      "fighterB": "Marcos Vazquez",
-      "fighterARecord": "17-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-31",
-      "division": "Super Middleweight",
-      "venue": "KO",
-      "locationImage": "",
-      "title": "Super Middleweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Bek Nurmaganbet"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-middleweight"
-    },
-    {
       "id": "david-picasso-carl-martin-2026-10-31",
       "fighterA": "David Picasso",
       "fighterB": "Carl Martin",
@@ -198,27 +135,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
-    },
-    {
-      "id": "ahmad-reda-jake-wyllie-2026-11-06",
-      "fighterA": "Ahmad Reda",
-      "fighterB": "Jake Wyllie",
-      "fighterARecord": "10-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-11-06",
-      "division": "Lightweight",
-      "venue": "MD",
-      "locationImage": "",
-      "title": "Lightweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Ahmad Reda"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/lightweight"
     },
     {
       "id": "chris-billam-smith-cheavon-clarke-2026-11-07",
@@ -264,31 +180,10 @@
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
     },
     {
-      "id": "damazion-vanhouter-ivan-2026-11-07",
-      "fighterA": "Damazion Vanhouter",
-      "fighterB": "Ivan",
-      "fighterARecord": "14-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-11-07",
-      "division": "Light Heavyweight",
-      "venue": "Bal&#xE1;&#x17E;",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Damazion Vanhouter"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
       "id": "zach-parker-umar-dzambekov-2026-11-07",
       "fighterA": "Zach Parker",
       "fighterB": "Umar Dzambekov",
-      "fighterARecord": "",
+      "fighterARecord": "26-3-0",
       "fighterBRecord": "15-1-0",
       "fighterAImage": "",
       "fighterBImage": "",
@@ -300,6 +195,7 @@
       "result": "Result listed by source",
       "rankedMatch": true,
       "rankedFighters": [
+        "Zach Parker",
         "Umar Dzambekov"
       ],
       "sourceName": "Boxing Metrics",
@@ -322,48 +218,6 @@
       "rankedMatch": true,
       "rankedFighters": [
         "Bradley Rea"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "atif-oberlton-deon-nicholson-2026-11-07",
-      "fighterA": "Atif Oberlton",
-      "fighterB": "Deon Nicholson",
-      "fighterARecord": "18-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-11-07",
-      "division": "Light Heavyweight",
-      "venue": "SD",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Atif Oberlton"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
-    },
-    {
-      "id": "joshua-buatsi-willy-hutchinson-2026-11-07",
-      "fighterA": "Joshua Buatsi",
-      "fighterB": "Willy Hutchinson",
-      "fighterARecord": "22-2-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-11-07",
-      "division": "Light Heavyweight",
-      "venue": "AO Arena, Manchester, Lancashire",
-      "locationImage": "",
-      "title": "Light Heavyweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Joshua Buatsi"
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/light-heavyweight"
@@ -409,6 +263,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
+    },
+    {
+      "id": "lenar-perez-artur-ziiatdinov-2026-11-12",
+      "fighterA": "Lenar Perez",
+      "fighterB": "Artur Ziiatdinov",
+      "fighterARecord": "17-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-12",
+      "division": "Cruiserweight",
+      "venue": "Montreal Casino, Montreal, Quebec, Canada",
+      "locationImage": "",
+      "title": "Cruiserweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Lenar Perez"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/cruiserweight"
     },
     {
       "id": "steven-butler-erik-bazinyan-2026-11-12",
@@ -630,7 +505,7 @@
       "fighterBImage": "",
       "date": "2026-11-20",
       "division": "Middleweight",
-      "venue": "Fantasy Springs Resort & Casino, Indio, California",
+      "venue": "TKO",
       "locationImage": "",
       "title": "Middleweight bout",
       "result": "Result listed by source",
@@ -640,6 +515,48 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/middleweight"
+    },
+    {
+      "id": "joel-iriarte-darvin-galeano-2026-11-20",
+      "fighterA": "Joel Iriarte",
+      "fighterB": "Darvin Galeano",
+      "fighterARecord": "11-0-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-20",
+      "division": "Welterweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Joel Iriarte"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
+    },
+    {
+      "id": "manuel-flores-rashib-martinez-2026-11-20",
+      "fighterA": "Manuel Flores",
+      "fighterB": "Rashib Martinez",
+      "fighterARecord": "20-2-1",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-20",
+      "division": "Super Bantamweight",
+      "venue": "TKO",
+      "locationImage": "",
+      "title": "Super Bantamweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Manuel Flores"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:38:39.491Z",
+  "generatedAt": "2026-11-26T18:25:04.604Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -93,27 +93,6 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-flyweight"
-    },
-    {
-      "id": "albert-gonzalez-edward-vazquez-2026-10-25",
-      "fighterA": "Albert Gonzalez",
-      "fighterB": "Edward Vazquez",
-      "fighterARecord": "19-0-0",
-      "fighterBRecord": "",
-      "fighterAImage": "",
-      "fighterBImage": "",
-      "date": "2026-10-25",
-      "division": "Featherweight",
-      "venue": "TKO",
-      "locationImage": "",
-      "title": "Featherweight bout",
-      "result": "Result listed by source",
-      "rankedMatch": true,
-      "rankedFighters": [
-        "Albert Gonzalez"
-      ],
-      "sourceName": "Boxing Metrics",
-      "sourceUrl": "https://www.boxingmetrics.com/weightclass/featherweight"
     },
     {
       "id": "david-picasso-carl-martin-2026-10-31",

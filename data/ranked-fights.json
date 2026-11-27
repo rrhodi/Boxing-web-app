@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:25:04.604Z",
+  "generatedAt": "2026-11-27T18:10:49.616Z",
   "window": {
     "previousMonths": 3,
     "upcomingMonths": 3
@@ -536,6 +536,27 @@
       ],
       "sourceName": "Boxing Metrics",
       "sourceUrl": "https://www.boxingmetrics.com/weightclass/super-bantamweight"
+    },
+    {
+      "id": "karen-chukhadzhyan-lucas-arganaraz-2026-11-27",
+      "fighterA": "Karen Chukhadzhyan",
+      "fighterB": "Lucas Arganaraz",
+      "fighterARecord": "26-3-0",
+      "fighterBRecord": "",
+      "fighterAImage": "",
+      "fighterBImage": "",
+      "date": "2026-11-27",
+      "division": "Welterweight",
+      "venue": "Europa Park, Rust, Baden Wurttemberg",
+      "locationImage": "",
+      "title": "Welterweight bout",
+      "result": "Result listed by source",
+      "rankedMatch": true,
+      "rankedFighters": [
+        "Karen Chukhadzhyan"
+      ],
+      "sourceName": "Boxing Metrics",
+      "sourceUrl": "https://www.boxingmetrics.com/weightclass/welterweight"
     }
   ]
 }
